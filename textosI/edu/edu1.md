@@ -30,7 +30,7 @@ factura para su cobro»"
 <hr />
 <p class="md_footnote_size">
 Texto Original: <i>"An Underground History of
-American Education"</i> (2003) de <a href="" target="_blank" rel="noopener noreferrer">J.T Gatto</a><br />
+American Education"</i> (2003) de <a href="https://es.wikipedia.org/wiki/John_Taylor_Gatto" target="_blank" rel="noopener noreferrer">J.T Gatto</a><br />
 Traducción completa: "<i><a href="https://iessecundaria.files.wordpress.com/2013/02/john-taylor-gatto-historia-secreta-del-sistema-educativo.pdf" target="_blank" rel="noopener noreferrer">Historia Secreta del Sistema Educativo</a>" <span class="pdf">[PDF]</span></i>
 
 

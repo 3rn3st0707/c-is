@@ -10,7 +10,7 @@ de las libertades civiles y la compasión por los oprimidos y los desfavorecidos
 
 
 Por tanto, puede parecer incongruente identificar el progresismo como la
-<span class="lnk">[ideología de una élite](/textosI/maquiavelicos/maq2)</span> y un medio de racionalizar los intereses de un grupo. Sin embargo, sean cuales sean las motivaciones e intenciones de los exponentes del progresismo, el efecto de la popularización de las ideas y valores progresistas
+<span class="lnk">[ideología de una élite](/textosI/maquiavelistas/maq2)</span> y un medio de racionalizar los intereses de un grupo. Sin embargo, sean cuales sean las motivaciones e intenciones de los exponentes del progresismo, el efecto de la popularización de las ideas y valores progresistas
 ha sido reforzar las estructuras y el funcionamiento del <span class="lnk">[régimen gerencial](/textosI/category/la-revolución-gerencial-1941--james-burnham)</span> mediante la difusión de ideas que justifican el crecimiento de las organizaciones de masas en el Estado, la economía y la cultura y la integración o fusión de estas organizaciones.
 
 
@@ -42,7 +42,7 @@ no radica en su relación causal con estas tendencias, sino en su apoyo y acepta
 los esfuerzos por encontrar racionalizaciones para ellas y los intereses de aquellos grupos sociales que obtienen poder y poder y recompensas sociales, en el estímulo constante que el progresismo ofrece a estas tendencias y en su desaliento y oposición igualmente constantes a cualquier tendencia o movimiento que se aleje de ellas.
 
 
-El progresismo no se originó, por supuesto, con los grupos e intereses empresariales del siglo XX,sino que se desarrolló como un cuerpo formal de pensamiento en la <span class="lnk">[Ilustración](/textosII/ilustracion)</span> del siglo XVIII como liberalismo (nombre con el que aún se conoce al progresismo en los EEUU). 
+El progresismo no se originó, por supuesto, con los grupos e intereses empresariales del siglo XX, sino que se desarrolló como un cuerpo formal de pensamiento en la <span class="lnk">[Ilustración](/textosII/ilustracion)</span> del siglo XVIII como liberalismo (nombre con el que aún se conoce al progresismo en los EEUU). 
 
 Aunque
 existe una considerable continuidad entre el liberalismo (progresismo en el mundo hispano parlante) de los filósofos del siglo XX,

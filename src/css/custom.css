@@ -127,7 +127,6 @@ aside .menu li {
 aside .menu li a {
   font-family: 'Special Elite', cursive;
   padding: 0.3em;
-  padding-top: 0.2em;
   text-align:left;
   font-weight: bold;
   font-size: 95%;
@@ -730,8 +729,8 @@ html[data-theme='light'] .table-of-contents  {
   opacity: .9;
 }
 
-html[data-theme='light'] .lnk {
-  color:  #31412be5;
+html[data-theme='light'] .lnk a {
+  color:  #3b553ee5;
   font-weight: bold  !important;
 }
 
@@ -1062,16 +1061,6 @@ blockquote {
 
 .table-of-contents li {
   text-align: center;
-}
-
-.md_footnote_size {
-  text-align: justify;
-  font-size: 80% !important ; 
-}
-
-.md_footnote_sizeMargin {
-  margin-top: -11px;
-  font-size: 80% !important ;
 }
 
 
