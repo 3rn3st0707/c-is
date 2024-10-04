@@ -45,7 +45,9 @@ Y, en todo caso, esa opción era probablemente demasiado antisocial, incluso par
 
 
 
-Asi que se tomó la pastilla azul. Arranca con un porrito azul y cuando se quiere dar cuenta ya esta metido en la heroina azul. El cree en la narrativa de su siglo tal como es, excepto que aún más de lo normal. Porque no? Aún sin haber marinado su cerebro en Chomsky, que brillante joven puede perderse todos los problemas que nuestra gobernanza tiene en vivir en su propios ideales comunis...  quiero decir, "progresistas".
+Asi que se tomó la pastilla azul. Arranca con un porrito azul y cuando se quiere dar cuenta ya esta metido en la heroina azul. El cree en la narrativa de su siglo tal como es, excepto que aún más de lo normal. Porque no? Aún sin haber marinado su cerebro en Chomsky, que brillante joven puede perderse todos los problemas que nuestra gobernanza tiene en vivir en su propios ideales comunis...  quiero decir, "<a href="/textosII/progresismo" class="lnk">progresistas</a>".
+
+
 
 
 
@@ -54,7 +56,7 @@ Los nazis fueron vencidos, supuestamente. Pero de alguna forma las semillas de l
 Donde sea que veas una propiedad, especialmente propiedad heredada, ves a un pequeño Rey en su pequeño Reino, cuya única respuesta a "porque poses esto?" es "porque sí"
 
 
-Como un Aaron Swartz nutrido con [Horacio](https://es.wikipedia.org/wiki/Horacio) en vez de [John Dewey](https://es.wikipedia.org/wiki/John_Dewey) podría haberlo dicho, [Nātūram expellās furcā, tamen ūsque recurret](https://twitter.com/mhartl/status/1466154566529937410)*. desde ya que la utopía es inalcanzable, como un mundo griego que no tiene a un Chomsky sino a un <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> en los gastados libros de sus estantes lo sabría en sus huesos, la autocracia es universal y no puede ser repelida, sólo escondida. Siempre y en todo lugar <a href="/maquiavelicos/maq2" class="lnk">minorias fuertes gobiernan a mayorias débiles</a>.
+Como un Aaron Swartz nutrido con [Horacio](https://es.wikipedia.org/wiki/Horacio) en vez de [John Dewey](https://es.wikipedia.org/wiki/John_Dewey) podría haberlo dicho, [Nātūram expellās furcā, tamen ūsque recurret](https://twitter.com/mhartl/status/1466154566529937410)*. desde ya que la utopía es inalcanzable, como un mundo griego que no tiene a un Chomsky sino a un <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> en los gastados libros de sus estantes lo sabría en sus huesos, la autocracia es universal y no puede ser repelida, sólo escondida. Siempre y en todo lugar <a href="/textosI/maquiavelistas/maq2" class="lnk">minorias fuertes gobiernan a mayorias débiles</a>.
 
 
 
@@ -107,7 +109,7 @@ Quien era más fuerte [Dr. King o Bull Connor](https://calendar.eji.org/racial-i
 
 
 
-La "[Desobediencia Civil](https://es.wikipedia.org/wiki/Desobediencia_civil)" no es más que una forma en la que el overdog le dice al [underdog](https://wikidiff.com/underdog/overdog) "*soy tan fuerte que no podes imponerme tus *"leyes"* a mi*". Soy fuerte y el poder es lo que dicta que es correcto, <a href="/category/paz-y-guerra-1962----raymond-aron" class="lnk">yo te dicto la ley, no vos a mi</a>. No te creas que el lado perdedor no ha intentado su propia "desobediencia civil". E incluso sus propias "medidas activas". Que obtuvieron? [Quod licet Iovi, non licet bovi](https://en.wikipedia.org/wiki/Quod_licet_Iovi,_non_licet_bovi)**
+La "[Desobediencia Civil](https://es.wikipedia.org/wiki/Desobediencia_civil)" no es más que una forma en la que el overdog le dice al [underdog](https://wikidiff.com/underdog/overdog) "*soy tan fuerte que no podes imponerme tus *"leyes"* a mi*". Soy fuerte y el poder es lo que dicta que es correcto, <a href="/textosI/category/paz-y-guerra-1962----raymond-aron" class="lnk">yo te dicto la ley, no vos a mi</a>. No te creas que el lado perdedor no ha intentado su propia "desobediencia civil". E incluso sus propias "medidas activas". Que obtuvieron? [Quod licet Iovi, non licet bovi](https://en.wikipedia.org/wiki/Quod_licet_Iovi,_non_licet_bovi)**
 
 
 
@@ -129,13 +131,13 @@ Porque? Bueno, obviamente Assange conocia la partitura. El sabia que [Arlington]
 
 
 
-De hecho mi cinismo resultó injustificado: De hecho Assange resulto ser un verdadero creyente y no un astuto manipulador. No estaba conforme con blandir su espada contra los usuales demonios de la narrativa chomskiana. Oh no, el pobre huevon creía que realmente ertaba allí para enfrentar a los poderes. Los cuales son, a diferencia de los villanos de dibujitos animados, fuertes. Si el no lo sabía, lo sabe ahora.
+De hecho mi cinismo resultó injustificado: De hecho Assange resulto ser un verdadero creyente y no un astuto manipulador. No estaba conforme con blandir su espada contra los usuales demonios de la narrativa chomskiana. Oh no, el pobre huevon creía que realmente ertaba allí para enfrentar a los poderes. Los cuales son, a diferencia de los villanos de dibujitos animados, fuertes. Si él no lo sabía, lo sabe ahora.
 
 
 
 
 
-Mejor ser un perro vivo que un heroe muerto. Pero si Aaron Swartz hubiese enchufado su laptop en la red interna de Exxon y se hubiese bajado todo lo que [belcebú](https://es.wikipedia.org/wiki/Belceb%C3%BA) sabe sobre [fracking](https://nofrackingmexico.org/que-es-el-fracking/) sería un heroe vivo hasta el día de hoy. Porque? Por que ningun procurador federal ambicioso del siglo 21 hubiese visto un ruta a una carrera exitosa en salir a cazar un activista en favor de Exxon. El prosecutor hubiese tenido que creer que vivia en el mundo de Chomsky, lo cual no puede porque dicha narrativa es inconsistente con el mundo real al que va a trabajar cada mañana.
+Mejor ser un perro vivo que un heroe muerto. Pero si Aaron Swartz hubiese enchufado su laptop en la red interna de Exxon y se hubiese bajado todo lo que [belcebú](https://es.wikipedia.org/wiki/Belceb%C3%BA) sabe sobre [fracking](https://nofrackingmexico.org/que-es-el-fracking/) sería un heroe vivo hasta el día de hoy. Porque? Por que ningun procurador federal ambicioso del siglo 21 hubiese visto un ruta a una carrera exitosa en salir a cazar un activista en favor de Exxon. El procurador hubiese tenido que creer que vivia en el mundo de Chomsky, lo cual no puede porque dicha narrativa es inconsistente con el mundo real al que va a trabajar cada mañana.
 
 
 
@@ -154,7 +156,7 @@ Pero cuando tomas una institución genuinamente respetada, ya sea el estado o el
 
 
 
-Notaran el tono de este manifiesto, que es el típico tono jactancioso y prepotente del poderoso dirigiendose al indefenso. <a href="/textos/paralela#1-la-indefensión-del-administrado-frente-a-la-administración" class="lnk">Tus supuestas leyes no tienen valor porque las leyes no significan nada sin poder</a> nos dice. Es quien tiene el poder quien hace las leyes reales.
+Notaran el tono de este manifiesto, que es el típico tono jactancioso y prepotente del poderoso dirigiendose al indefenso. <a href="/textosII/paralela#1-la-indefensión-del-administrado-frente-a-la-administración" class="lnk">Tus supuestas leyes no tienen valor porque las leyes no significan nada sin poder</a> nos dice. Es quien tiene el poder quien hace las leyes reales.
 
 
 

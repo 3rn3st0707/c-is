@@ -29,7 +29,7 @@ momento de cerrar para siempre el manuscrito inconcluso que dejaba a su mujer, n
 
 
 
-¿Cuántos han leído <a href="/textos/guerra" class="lnk">De la Guerra</a> (1831)
+¿Cuántos han leído <a href="/textosII/guerra" class="lnk">De la Guerra</a> (1831)
 entre aquellos que la citan? Incluso en el
 idioma alemán, la literatura al respecto
 me ha parecido relativamente pobre.
@@ -108,7 +108,7 @@ emperador, como si se tratara de una historia ya lejana, de un destino que los
 hombres habrían sufrido sin comprender
 y cuya lógica oculta correspondería a los
 teóricos dar a conocer para enseñanza
-de <a href="/category/historia-secreta-de-la-educaci%C3%B3n-2003-jt-gatto#el-movimiento-de-las-reformas-prusianas" class="lnk">los que asumirían en el futuro la responsabilidad de los estados</a>. 
+de <a href="/textosI/category/historia-secreta-de-la-educaci%C3%B3n-2003-jt-gatto#el-movimiento-de-las-reformas-prusianas" class="lnk">los que asumirían en el futuro la responsabilidad de los estados</a>. 
 
 
 
@@ -130,7 +130,7 @@ mismo tiempo, a la filosofía de la historia.
 
 
 Entre las maniobras del siglo XVIII
-y las <a href="/textos/Masas#impulsividad-movilidad-e-irritabilidad-de-las-masas" class="lnk">batallas de masas de la época revolucionaria</a>, a pesar de todo subsisten
+y las <a href="/textosII/Masas#impulsividad-movilidad-e-irritabilidad-de-las-masas" class="lnk">batallas de masas de la época revolucionaria</a>, a pesar de todo subsisten
 rasgos comunes. Se trata de la guerra
 tanto en uno como en el otro caso. ¿Qué
 concepto abarca al mismo tiempo las
@@ -227,7 +227,7 @@ es en contacto con esos pequeños destacamentos que el incendio de la guerra se
 extenderá cada vez más"
 
 De igual manera, Clausewitz ha formulado rigurosamente el doble principio -defensa estratégica; ofensiva táctica- que Mao Tse
-Tung empleó para la <a href="/lucifer/lucifer2" class="lnk">primera fase de la
+Tung empleó para la <a href="/textosI/lucifer/lucifer2" class="lnk">primera fase de la
 guerra popular</a>.
 
 

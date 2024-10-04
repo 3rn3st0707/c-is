@@ -88,7 +88,7 @@ No
 debe existir ningún misterio, pero tampoco el deseo de su revelación. 
 
 
-El desencantamiento del mundo es <a href="/textos/mumford#el-obstáculo-del-animismo" class="lnk">la liquidación del animismo</a>. Jenófanes ridiculiza la multiplicidad de los dioses porque se asemejan a
+El desencantamiento del mundo es <a href="/textosII/mumford#el-obstáculo-del-animismo" class="lnk">la liquidación del animismo</a>. Jenófanes ridiculiza la multiplicidad de los dioses porque se asemejan a
 los hombres, sus creadores, con todos sus accidentes y defectos, y la
 lógica más reciente denuncia las palabras acuñadas del lenguaje como
 falsas monedas que deberían ser sustituidas por fichas neutrales. El
@@ -169,7 +169,7 @@ multiplicidad de figuras queda reducida a posición y estructura, la historia a 
 proposiciones empíricas debe darse, también según Bacon, una evidente relación lógica a través de los diferentes grados de universalidad.
 
 
-[De Maistre](https://es.wikipedia.org/wiki/Joseph_de_Maistre) se burla de él diciendo que cultiva «*une idole d'échelle*» La lógica formal ha sido la gran escuela de la unificación. Ella
+[De Maistre](https://es.wikipedia.org/wiki/Joseph_de_Maistre) se burla de él diciendo que cultiva «*une idole d'échelle*»*.cd La lógica formal ha sido la gran escuela de la unificación. Ella
 ofreció a los ilustrados el esquema de la calculabilidad del mundo. La
 equiparación mitologizante de las ideas con los números en los últimos escritos de Platón expresa el anhelo de toda desmitologización: el
 número se convirtió en el canon de la Ilustración.
@@ -331,7 +331,7 @@ A él se le paga ahora
 con la misma moneda. La propia mitología ha puesto en marcha el
 proceso sin fin de la Ilustración, en el cual toda determinada concepción teórica cae con inevitable necesidad bajo la crítica demoledora de
 ser sólo una creencia, hasta que también los conceptos de espíritu, de
-verdad, e incluso el de Ilustración, quedan reducidos a <a href="/textos/mumford#el-obstáculo-del-animismo" class="lnk">magia animista</a>.
+verdad, e incluso el de Ilustración, quedan reducidos a <a href="/textosII/mumford#el-obstáculo-del-animismo" class="lnk">magia animista</a>.
 
 El principio de la necesidad fatal por la que perecen los héroes del
 mito, y que se desprende como consecuencia lógica del veredicto del

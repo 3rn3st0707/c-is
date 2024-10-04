@@ -29,7 +29,7 @@ está en vías de transformación.
 En la base de esta última se hallan dos factores fundamentales. El primero es la destrucción
 de las creencias religiosas, políticas y sociales de las que derivan todos los elementos de
 nuestra civilización. El segundo, la creación de condiciones de existencia y de pensamiento
-completamente nuevas, engendradas por los <a href="/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">modernos medios de produción</a> de la ciencia y la industria. 
+completamente nuevas, engendradas por los <a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">modernos medios de produción</a> de la ciencia y la industria. 
 
 
 
@@ -50,7 +50,7 @@ las masas donde se preparan los destinos de las naciones.
 </p>
 
 
-El advenimiento de las clases populares a la vida política, su progresiva transformación en <a href="/maquiavelicos/maq2" class="lnk">clases dirigentes</a>, es una de las más destacadas características de nuestra época de
+El advenimiento de las clases populares a la vida política, su progresiva transformación en <a href="/textosI/maquiavelistas/maq2" class="lnk">clases dirigentes</a>, es una de las más destacadas características de nuestra época de
 transición. Tal advenimiento no se ha debido, en realidad, al sufragio universal, tan poco
 influyente durante mucho tiempo y tan fácil de dirigir, al principio.
 

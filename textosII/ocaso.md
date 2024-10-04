@@ -39,7 +39,7 @@ gremio preferían a Heidegger, que daba expresión más cumplida y excelsa a su 
 Heidegger ennobleció la muerte decretada por Spengler sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa. 
 
 
-Spengler perdió el mercado: su ensayo sobre *<a href="/textos/h&t" class="lnk">El hombre y la Técnica</a>* (1931) no pudo sostener ya la competencia de
+Spengler perdió el mercado: su ensayo sobre *<a href="/textosII/h&t" class="lnk">El hombre y la Técnica</a>* (1931) no pudo sostener ya la competencia de
 las antropologías filosóficas lanzadas simultáneamente. Apenas
 se enteró ya la gente del interes que sucitó en los nacionalsocialistas, de su negativa a la invitaciòn de Hitler y, finalmente, de su muerte. En
 Alemania quedó proscrito por pesimista y por reaccionario — en
@@ -302,7 +302,7 @@ siquiera bajo amenazas penales".
 
 La prognosis spengleriana de la transformación del partido
 ha sido radicalmente confirmada por el nacionalsocialismo: los
-partidos se convierten en "séquitos". La caracterización spengleriana del partido, probablemente inspirada por <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> (1876-1936), tiene aquella fabulosa claridad que el fascismo supo aprovechar tan satánicamente al convertir en justificación de la
+partidos se convierten en "séquitos". La caracterización spengleriana del partido, probablemente inspirada por <a href="/textosI/maquiavelistas/maq8" class="lnk">Robert Michels</a> (1876-1936), tiene aquella fabulosa claridad que el fascismo supo aprovechar tan satánicamente al convertir en justificación de la
 falsedad y de la inhumanidad absolutas la falsedad de un humanismo qvie se declaraba patrón del mundo sin haberse realizado propiamente. Spengler ha visto también la relación esencial del sistema de partidos con el liberalismo burgués. 
 
 >"La
@@ -483,7 +483,7 @@ su propio manierismo estilístico, habría que comparar *[La Decadencia de Occid
 se ofrece a buen precio la carne legible en conserva que el gerente intelectual ha conseguido arrebatar de la masa de la
 quiebra de la cultura. En esa actitud de Spengler alienta el resuelto y resentido deseo del sabio alemán de la clase media,
 ansioso de convertir por fin su saber en capital para invertirlo
-en la rama más prometedora de la economía: <a href="/t&c/t&c4" class="lnk">la industria pesada</a> en la época de Spengler.
+en la rama más prometedora de la economía: <a href="/textosI/t&c/t&c4" class="lnk">la industria pesada</a> en la época de Spengler.
 
 El descubrimiento de la impotencia del intelectual liberal bajo la sombra del poder totalitario en marcha hace de Spengler un desertor. El espíritu se
 autodenuncia para ser aprovechable como fabricante de ideologías antiideológicas. Detrás de la proclama spengleriana del
@@ -526,7 +526,7 @@ disposición de los poderosos en los estados dictatoriales, los cuales desprecia
 
 Para la resistencia de las ciencias especiales, Spengler, sobre todo en los países anglosajones, es un metafísico que violenta la realidad con la arbitrariedad de sus construcciones
 conceptuales. Aparte de los idealistas, que vieron en él la negación del progreso en la conciencia de la libertad, Spengler
-no habrá tenido contrincantes más encendidos que los positivistas. No hay duda de que su filosofía hace violencia al mundo. La historia, tan llena de agitada vida que el <a href="/soft&mind/s&m2" class="lnk">mismo concepto de progreso le resultó demasiado mecanicista</a>, parece
+no habrá tenido contrincantes más encendidos que los positivistas. No hay duda de que su filosofía hace violencia al mundo. La historia, tan llena de agitada vida que el <a href="/textosI/soft&mind/s&m2" class="lnk">mismo concepto de progreso le resultó demasiado mecanicista</a>, parece
 , parece
 congelarse aún más inmediatamente en el esquema conceptual de Spengler. La cuestión de si una filosofía es metafísica
 o es positivista no puede resolverse al primer vistazo. A veces

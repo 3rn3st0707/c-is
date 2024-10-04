@@ -23,7 +23,7 @@ No hace falta ser profeta para ver que bajo la sociedad gerencial este panorama 
 
 Una por una las pequeñas naciones soberanas estan ciendo barridas por completo o siendo vaciadas de los atributos que hacen en la práctica a la soberania efectiva. Cual serpa el resultado de este proceso en terminos de estructura política mundial? Esa es la pregunta que me propongo examinar y responder en el presente capítulo.
 
-[Soberanía](https://es.wikipedia.org/wiki/Soberan%C3%ADa) para una nación implica que esa nación hace leyes por su cuenta y no reconoce leyes impuestas por ningún organo superior. Esto significa que inpone tarifas y otros controles de importación y exportación, regula sus propias políticas externas y su propia moneda y mantiene establishments políticos, civiles y militares.
+[Soberanía](https://es.wikipedia.org/wiki/Soberan%C3%ADa) para una nación implica que esa nación hace leyes por su cuenta y no reconoce leyes impuestas por ningún organo superior. Esto significa que impone tarifas y otros controles de importación y exportación, regula sus propias políticas externas y su propia moneda y mantiene establishments políticos, civiles y militares.
 
 
 La existencia simultanea de multiples naciones soberanas en el mundo moderno necesariamente implica una situación anarquica en el terreno político. Esto es así porque, dado que cada nación soberana no reconoce ningún hacedor de leyes superior a sí misma, al final no hay otro medio que la fuerza para mediar en los profundos conflictos que inevitablemente surgiran entre naciones.

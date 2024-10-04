@@ -60,7 +60,7 @@ Al tope de esta burocracia estan las elites del software: las univeridades y las
 
 
 
-Tres ingredientes son necesarios para implementar <a href="https://es.wikipedia.org/wiki/Totalitarismo" target="_blank" rel="noopener noreferrer">totalitarismo</a>: un <a href="https://es.wikipedia.org/wiki/Mito" target="_blank" rel="noopener noreferrer">mito</a>, una elite y una <a href="https://es.wikipedia.org/wiki/Burocracia" target="_blank" rel="noopener noreferrer">burocracia</a>. Y la expansión del totalitarismo es causada por la expansión de la burocracia: porciones cada vez más grandes de la población cambian su rol de ciudadanos o trabajadores al de burocratas, es decir de individuos que realizan tareas útiles a individuos que cuya principal responsabilidad es practicar el mito.
+Tres ingredientes son necesarios para implementar <a href="https://es.wikipedia.org/wiki/Totalitarismo" target="_blank" rel="noopener noreferrer">totalitarismo</a>: un <a href="https://es.wikipedia.org/wiki/Mito" target="_blank" rel="noopener noreferrer">mito</a>, una <a href="/textosI/maquiavelistas/maq2" class="lnk">elite</a> y una <a href="https://es.wikipedia.org/wiki/Burocracia" target="_blank" rel="noopener noreferrer">burocracia</a>. Y la expansión del totalitarismo es causada por la expansión de la burocracia: porciones cada vez más grandes de la población cambian su rol de ciudadanos o trabajadores al de burocratas, es decir de individuos que realizan tareas útiles a individuos que cuya principal responsabilidad es practicar el mito.
 
 
 

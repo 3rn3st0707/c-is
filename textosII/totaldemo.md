@@ -133,7 +133,7 @@ Las etapas son tres y se corresponden con las tres partes en que se divide este 
 
 <p class="md_footnote_size">* Ver <a href="https://es.wikipedia.org/wiki/Fran%C3%A7ois_Babeuf">François Babeuf</a> (1760-1797)</p>
 
-La democracia totalitaria moderna es una dictadura que se apoya en el entusiasmo popular y por tanto es completamente diferente del poder absoluto que ostentaban el "*Poder Divino*" del Rey o un tirano usurpador. En tanto es una dictadura basada en la ideologia y el <a href="/textos/Masas#exageraci%C3%B3n-y-simplismo-de-los-sentimientos-de-las-masas" class="lnk">entusiasmo de las masas</a>, es el resultado, tal como mostraremos, de la sintesis de la idea del siglo dieciocho del orden natural y la idea Rosseauista de realización popular y autoexpresión.
+La democracia totalitaria moderna es una dictadura que se apoya en el entusiasmo popular y por tanto es completamente diferente del poder absoluto que ostentaban el "*Poder Divino*" del Rey o un tirano usurpador. En tanto es una dictadura basada en la ideologia y el <a href="/textosII/Masas#exageraci%C3%B3n-y-simplismo-de-los-sentimientos-de-las-masas" class="lnk">entusiasmo de las masas</a>, es el resultado, tal como mostraremos, de la sintesis de la idea del siglo dieciocho del orden natural y la idea Rosseauista de realización popular y autoexpresión.
 
 
 
@@ -165,7 +165,7 @@ Se podría argumentar que estas distinciones hacen poca diferencia, en especial 
 
 Ahora bien, esta es una cuestión no sólo de interes academico, sino también de gran importancia práctica. Aún si aceptamos este diagnóstico de la naturaleza del totalitarismo de izquierda cuando triunfa, tenemos que atribuir su degeneración al proceso de corroción por el que inevitablemente pasa una idea cuando el poder cae en manos de su adherentes? O debemos buscar la razón de ello más profundo, puntualmente en la misma esencia de la contradicción entre absolutismo ideológico e individualismo, inherente al mesianismo político moderno? Cuando las acciones de los hombres en el poder contradicen sus palabras deben ser llamados hipócritas o victimas de un engaño intelectual?
 
-Esta es la cuestión a investigar. Este ensayo no se ocupa de la cuestión del poder como tal, sino con el del poder en relación a la conciencia. Las fuerzas objetivas favoreciendo la concentración de poder y la subordinación del individuo a una maquinaria de poder tales como los <a href="/t&c/t&c3" class="lnk">modernos medios de produción</a> y la *[arcana imperii](https://ri.conicet.gov.ar/handle/11336/113986)* que posibilitan los desarrollos técnicos modernos estan fuera de su alcance de este estudio.
+Esta es la cuestión a investigar. Este ensayo no se ocupa de la cuestión del poder como tal, sino con el del poder en relación a la conciencia. Las fuerzas objetivas favoreciendo la concentración de poder y la subordinación del individuo a una maquinaria de poder tales como los <a href="/textosI/t&c/t&c3" class="lnk">modernos medios de produción</a> y la *[arcana imperii](https://ri.conicet.gov.ar/handle/11336/113986)* que posibilitan los desarrollos técnicos modernos estan fuera de su alcance de este estudio.
 
 
 

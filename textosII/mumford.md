@@ -133,10 +133,8 @@ contribuyeron al éxito de muy diferentes clases de máquinas. Los forjadores po
 miles de armaduras o de cañones de hierro, los carreteros podrían haber fabricado miles de ruedas
 hidráulicas o de burdos engranajes, sin haber inventado ninguno de los tipos especiales de movimiento
 perfeccionados en el reloj, y sin nada de la precisión de medida y finura de articulación que produjeron
-finalmente el <a href="/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">exacto cronómetro</a>  del siglo XVIII.
+finalmente el <a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">exacto cronómetro</a>  del siglo XVIII.
 
- 
-<a href="" class="lnk"></a> 
 
 
 El reloj, además es una máquina productora de energía cuyo “producto” es segundos y minutos:
@@ -517,7 +515,7 @@ ascendencia total en el siglo XVII.
 La nueva burguesía en la oficina y en la tienda, redujo la vida a una
 rutina cuidadosa e ininterrumpida. Tanto por lo que se refiere al negocio como a las comidas y al
 placer; todo era medido cuidadosamente, era tan metódico como el contacto sexual del padre de
-Tristam Shandy, que coincidía, simbólicamente, con el dar cuerda mensual al reloj. Pagos <a href="/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">cronometrados</a>, contratos cronometrados, trabajo cronometrado, comidas cronometradas: a partir de
+Tristam Shandy, que coincidía, simbólicamente, con el dar cuerda mensual al reloj. Pagos <a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">cronometrados</a>, contratos cronometrados, trabajo cronometrado, comidas cronometradas: a partir de
 este período nada estaba completamente libre del calendario o del reloj. 
 
  
@@ -631,9 +629,9 @@ A partir del siglo XV hasta el XVII los hombres vivieron en un mundo vacío: un 
 estaba quedando cada día más vacío. Decían sus oraciones, repetían sus fórmulas: trataron incluso de
 recobrar la santidad que habían perdido resucitando supersticiones que abandonaron hacía largo
 tiempo: de aquí la furia y el fanatismo sin sentido de la contrarreforma, su quema de herejes, su
-persecución de brujas, precisamente en medio de la creciente *"<a href="/textos/ilustracion" class="lnk">ilustración</a>"*.
+persecución de brujas, precisamente en medio de la creciente *"<a href="/textosII/ilustracion" class="lnk">ilustración</a>"*.
 
-  <a href="" class="lnk"></a>  
+  
 
 
 Ellos mismos se volvieron

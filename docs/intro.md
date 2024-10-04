@@ -5,7 +5,7 @@ slug: /
 
 #  La Nueva Diletancia
 
->«Los partidarios de la tradición primero creen que otros saben lo que ellos no saben y después, que ellos mismos saben lo que no saben»<br />
+>«Los partidarios de la tradición creen primero que otros saben lo que ellos no saben y después que ellos mismos saben lo que no saben»<br />
 >[Francis Bacon](https://es.wikipedia.org/wiki/Francis_Bacon) (1561-1626)
 
 >«La especialización es para los insectos»<br />
@@ -100,7 +100,7 @@ El concepto de *Ingeniería Social*, es decir un plan de influencia [superestruc
 
 
 
-Los origenes de la [Ingeniería Social](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(ciencia_pol%C3%ADtica)) moderna también se encuentran a comienzos del proceso de expansión industrial y acumulación de capital basado en la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) que comenzo a comienzos del siglo XX ya mencionada más arriba, cuando los insaciables pulpos económicos colectivamente conocidos como [The Robber Barons](https://es.wikipedia.org/wiki/Barones_ladrones), acosados por la opinion pública y las leyes antimonopolicas, decidieron reinvertir parte de las fabulosas ganacias generadas por las <span class="lnk">[nuevas normas de producción](/textosI/t&c/t&c4#nuevas-normas-de-producción)</span> en blanquear su imagen y sus activos bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy).
+Los origenes de la [Ingeniería Social](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(ciencia_pol%C3%ADtica)) moderna también se encuentran a comienzos del proceso de expansión industrial y acumulación de capital basado en la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) que comenzo a comienzos del siglo XX, cuando los insaciables pulpos económicos colectivamente conocidos como [The Robber Barons](https://es.wikipedia.org/wiki/Barones_ladrones), acosados por la opinion pública y las leyes antimonopolicas, decidieron reinvertir parte de las fabulosas ganacias generadas por las <span class="lnk">[nuevas normas de producción](/textosI/t&c/t&c4#nuevas-normas-de-producción)</span> en blanquear su imagen y sus activos bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy).
 
 
 
@@ -116,6 +116,11 @@ Por su parte la [Ingeniería Inversa](https://es.wikipedia.org/wiki/Ingenier%C3%
 Si bien como mencione más arriba son varios los titulos presentes en la sección *<a href="/textosI" class="lnk">Textos I</a>* que hacen referencia a los efectos de la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) en la sociedad, <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978) de [Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/) es el que pone más énfasis en el proceso de producción mismo, despejando mitos y exponiendo la verdadera naturaleza de fenomenos como el [Taylorismo](https://es.wikipedia.org/wiki/Taylorismo) y el [Fordismo](https://es.wikipedia.org/wiki/Fordismo) que tras más de un siglo permanecen como factores tan incomprendidos como subestimados en el análisis de la sociedad moderna.
 
 
+Por su parte el primer capítulo de la guía <em><a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a></em> se trata principalmente de una actualización de ese y los otros textos de este sitio sobre dicho tema.
+
+
+
+
 La *"Ingeniería Social Inversa"* tiene mucho leer, investigar y *"unir los puntos"* es por eso que este sitio pone mucho enfasis en enriquecer los textos con un profuso linkeado. Más aún, notarán que los <a href="/" class="lnk">links internos</a> y los [links externos](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) son de diferentes colores. Esta idea fue tomada de mi trabajo anterior [Armonia Expuesta](https://armonia-expuesta.netlify.app/) donde debido a la misma naturaleza de la materia de estudio el linkeado interno es aún más intenso, generando una [estructura paralela](https://armonia-expuesta.netlify.app/#la-estructura-paralela).
 
 
@@ -126,8 +131,59 @@ Ahora pasemos al primer principio de la *"Ingeniería Social Inversa"*.
 ## Toda Teorización Social es Ingenieria Social
 
 
+>«..disponen de algunas tropas, escuadrón obsoleto, al que a veces toca ejecutar las misiones más sutiles desplazándose en el pasado. Cuando los posibles
+se mezclan y vacilan, hay que ayudar a que sólo algunos de ellos se revelen.
+Entonces los grandes caminos en que el tiempo mismo se ha confundido son
+trazados de nuevo. Esos son: los ingenieros del tiempo.
+
+>De ellos depende, finalmente, que a través de mil y un caminos, el tiempo se
+transforme sin cesar en futuro. Los ingenieros del tiempo no son superhombres:
+los hay buenos, los hay malos. Y, como actúan allá, en el lejano pasado de los
+futuros posibles, civilizaciones se hacen o se deshacen, seres nacen y mueren...»
+
+>[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](/) (1987)
+
 >«Quien con monstruos lucha cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, también éste mira dentro de ti»
 
 ><a href="https://es.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank" rel="noopener noreferrer">Frederich Nietzsche</a>, [Más allá del Bien y del Mal](https://archive.org/details/friedrich-nietzsche-mas-alla-del-bien-y-del-mal-1997-alianza) (1886)
 
 <hr />
+
+Teniendo como objetivo darle a las *"ciencias sociales"* algo de la rigurosidad que caracteriza a las *ciencias fácticas* comencé a buscar material para este ebook bajo la premisa de que los textos elegidos debían, al menos en parte, hacer prediciones sobre hechos sociales verificables algunas decadas despues.
+
+
+Un ejemplo claro de esto es <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> *(<a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n3/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Revolution</a>)* que es de 1941 pero recién ahora sus predicciones se empiezan a apreciar en toda su dimensión, de hecho fue la obra teórica que inspiro <a href="https://es.wikipedia.org/wiki/1984_(novela)" target="_blank" rel="noopener noreferrer">1984</a>, la ficción de <a href="https://es.wikipedia.org/wiki/George_Orwell" target="_blank" rel="noopener noreferrer">George Orwell</a> quien, antes de su obra más conocida, escribio el ensayo *[James Burnham and the Managerial Revolution](https://en.wikipedia.org/wiki/Second_Thoughts_on_James_Burnham)* (1947).
+
+
+
+
+Sin embargo a medida que me abocaba a esta tarea me di cuenta de que pocas disciplinas tienden a influir en su propio objeto de estudio tanto como las *"ciencias sociales"* concluyendo en la premisa que da título a esta sección:
+
+>
+
+Efectivamente, pese a que la intención explícita en la cual se producen la mayoría de las investigaciones y teorizaciones en torno a los fenómenos sociales son con espíritu "crítico" y con la finalidad divulgativa de informar a las masas, en la práctica casi invariablemente terminan siendo utilizadas como un instrumento de control sobre estas mismas masas por una minoría.
+
+
+Este mismo fenomeno es una expresión más de una de las *constantes* más conocidas, solidas e invariables de la literatura política, aquí en las palabras de su exponente más conocido <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941):
+
+>«Entre los hechos y tendencias constantes que se encuentran en todos los organismos políticos, una es tan obvia que es evidente hasta para la mirada más casual. En todas las sociedades -desde las apenas civilizadas hasta las más avanzádas y poderosas- dos tipos de personas aparecen, la clase que manda y la que obedece. La primera clase, invariablemente la menos numerosa, ejecuta todas las funciones políticas, monopoliza el poder y disfruta de las ventajas que vienen con el poder, mientras que la segunda, la más numerosa, es dirigida y controlada por la primera, de una forma que es ahora más o menos legal, más o menos arbitraria y violenta, y suministra a la primera, al menos en apariencia, con los medios materiales de subsistencia que son esenciales para la supervivivencia de organismo político...»
+
+><em><a href="/textosI/maquiavelistas/maq2" class="lnk">Mosca: La Clase Gobernante</a></em>
+
+
+Por tanto la premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq8" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, su expresión "intelectual", una que puntualmente apunta a derribar los mitos "liberadores" de la educación.
+
+
+Sin bien, como muchos correctamente suponen, *La Ley de Hierro de la Oligarquia* es una cuestion cíclica que viene dando vulta desde el principio de los tiempos, este último ciclo, el que arranco a comienzos del siglo XX y aún no a sido liquidado, tiene una particularidad nueva respecto a sus encarnaciones previas.
+
+
+
+
+
+
+
+
+
+
+
+

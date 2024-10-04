@@ -56,7 +56,7 @@ el tiempo suficiente sobre el fuego*".
 
 
 La segunda parte de la frase expresa la inseguridad de nuestra anticipación. Quizás alguien extinguirá el fuego o retirará
-el jarro de él. Entonces hay intenciones que no tienen oportunidades de éxito porque sóndesesperadas o imposibles. En este caso el espectador se rehusará
+el jarro de él. Entonces hay intenciones que no tienen oportunidades de éxito porque són desesperadas o imposibles. En este caso el espectador se rehusará
 a anticipar su éxito aunque el actor en el relato crea en él. 
 
 
@@ -91,7 +91,7 @@ cielo*". Los profetas que dirigían sus profecías a la gente simple sabían que
 movimiento del sol era una anticipación bien establecida que, si se interrumpía, produciría un horrible cambio en la naturaleza.
 
 
-Así entendemos que varios espectadores puedan tener distinto conocimiento cónrespecto al mismo hecho, de modo que anticipan cosas diferentes,
+Así entendemos que varios espectadores puedan tener distinto conocimiento cón respecto al mismo hecho, de modo que anticipan cosas diferentes,
 algunos correcta y otros incorrectamente, y otros no anticipan para nada. 
 
 

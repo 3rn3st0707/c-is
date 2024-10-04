@@ -9,13 +9,12 @@ slug: propaganda
 La manipulación consciente e inteligente de
 los hábitos y opiniones organizados de las masas*
 es un elemento de importancia en la sociedad
-democrática. Quienes manipulan este mecanis-
-mo oculto de la sociedad constituyen el gobierno
+democrática. Quienes manipulan este mecanismo oculto de la sociedad constituyen el gobierno
 invisible// que detenta el verdadero poder que rige
 el destino de nuestro país.
 
 
-<p class="md_footnote_size">* <a href="/textos/masas" class="lnk">Psicología de las Masas</a> (1895) de <a href="https://www.buscabiografias.com/biografia/verDetalle/10953/Gustave%20Le%20Bon" target="_blank" rel="noopener noreferrer">Gustave LeBon</a> es una influencia confesa tanto de Edward Bernays// como de su tio Sigmund Freud// quien lo mensiona en //</p>
+<p class="md_footnote_size">* <a href="/textosII/masas" class="lnk">Psicología de las Masas</a> (1895) de <a href="https://www.buscabiografias.com/biografia/verDetalle/10953/Gustave%20Le%20Bon" target="_blank" rel="noopener noreferrer">Gustave LeBon</a> es una influencia confesa tanto de Edward Bernays// como de su tio Sigmund Freud// quien lo mensiona en //</p>
 
 
 
@@ -23,15 +22,13 @@ Quienes nos gobiernan, moldean nuestras
 mentes, definen nuestros gustos o nos sugieren
 nuestras ideas son en gran medida personas de las
 que nunca hemos oído hablar. Ello es el resultado
-lógico de cómo se organiza nuestra sociedad de-
-mocrática. Grandes cantidades de seres humanos
+lógico de cómo se organiza nuestra sociedad democrática. Grandes cantidades de seres humanos
 deben cooperar de esta suerte si es que quieren
 convivir en una sociedad funcional sin sobresaltos.
 
 
 A menudo, nuestros gobernantes invisibles
-no conocen la identidad de sus iguales en este ga-
-binete en la sombra.
+no conocen la identidad de sus iguales en este gabinete en la sombra.
 
 
 Nos gobiernan merced a sus cualidades innatas para el liderazgo, su capacidad de suministrar
@@ -39,14 +36,11 @@ las ideas precisas y su posición de privilegio en la estructura social. Poco im
 merezca este estado de cosas, constituye un hecho
 indiscutible que casi todos los actos de nuestras
 vidas cotidianas, ya sea en la esfera de la política o
-los negocios, en nuestra conducta social o en nues-
-tro pensamiento ético, se ven dominados por un
-número relativamente exiguo de personas - una
+los negocios, en nuestra conducta social o en nuestro pensamiento ético, se ven dominados por un
+número relativamente exiguo de personas una
 fracción insignificante de nuestros ciento veinte
 millones de conciudadanos— que comprende los
-procesos mentales y los patrones sociales de las ma-
-sas. Son ellos quienes mueven los hilos que con-
-trolan el pensamiento público, domeñan las viejas
+procesos mentales y los patrones sociales de las masas. Son ellos quienes mueven los hilos que controlan el pensamiento público, domeñan las viejas
 fuerzas sociales y descubren nuevas maneras de
 embrigar y guiar el mundo.
 
@@ -106,29 +100,22 @@ ha consentido en que la libre competencia se organice en virtud del liderazgo y 
 
 Algunos de los fenómenos de este proceso son
 objeto de críticas: la manipulación de las noticias,
-la inflación de la personalidad y el chalaneo gene-
-ral con el que se lleva a la conciencia de las masas a los políticos, los productos comerciales y las ideas
+la inflación de la personalidad y el chalaneo general con el que se lleva a la conciencia de las masas a los políticos, los productos comerciales y las ideas
 sociales. Puede ocurrir que se dé un mal uso a los
 instrumentos mediante los cuales se organiza y
-focaliza la opinión pública. Pero tanto la focaliza-
-ción como la organización resultan necesarias
+focaliza la opinión pública. Pero tanto la focalización como la organización resultan necesarias
 para una vida ordenada. 
 
-A medida que la civilización ganaba en com-
-plejidad y que la necesidad de un gobierno invisi-
-ble era cada vez más patente, se inventaron y desa-
-rrollaron los medios técnicos indispensables para
+A medida que la civilización ganaba en complejidad y que la necesidad de un gobierno invisible era cada vez más patente, se inventaron y desarrollaron los medios técnicos indispensables para
 poder disciplinar a la opinión pública.
 
 
 La imprenta y el periódico, los ferrocarriles, el
-teléfono y el telégrafo, la radio y los aviones per-
-miten extender las ideas velozmente, o incluso en
+teléfono y el telégrafo, la radio y los aviones permiten extender las ideas velozmente, o incluso en
 un instante, a lo largo y ancho de Estados Unidos.
 
 
-H. G. Wells// intuye las enormes posibilida-
-des de estos inventos cuando escribe en The New
+H. G. Wells// intuye las enormes posibilidades de estos inventos cuando escribe en The New
 York Times:
 
 >"Los medios de comunicación modernos —el poder quebrindan la imprenta, el teléfono y la comunicación sin hilos, entre otros, de transmitir influyentes ideas estratégicas o técnicas a un gran número de centros que colaboran entre sí, y posibilitar prontas respuestas y diálogos efectivos— han inaugurado un nuevo mundo de procesos políticos. Ideas y frases pueden ahora dotarse de una efectividad mayor que la de cualquier gran personalidad y más poderosa que cualquier interés sectorial. Es posible transmitir el designio que nos une y protegerlo contra tergiversaciones o traiciones. Es posible elabotarlo y desarrollarlo con paso firme y extensamente sin que se den malentendidos personales, locales o sectoriales"
@@ -138,18 +125,14 @@ Las afirmaciones del H.G. Wells sobre los procesos políticos son igualmente vá
 procesos comerciales y sociales, así como para
 cualquier manifestación de la actividad de masas.
 Los agrupamientos y las afiliaciones que se dan en
-la sociedad hoy en día ya no están sujetos a las li-
-mitaciones «locales y sectoriales». Cuando se apro-
-bó la Constitución , la unidad organizativa básica
+la sociedad hoy en día ya no están sujetos a las limitaciones «locales y sectoriales». Cuando se aprobó la Constitución , la unidad organizativa básica
 era la comunidad del pueblo, la cual producía la
 mayor parte de sus propios artículos de necesidad
 y generaba las ideas y las opiniones comunes al
 grupo mediante el contacto personal y la discusión directa entre sus habitantes
 
 Hoy en día, sin
-embargo, precisamente porque se pueden trans-
-mitir ideas instantaneamente a cualquier distan-
-cia y a cualquier número de personas, esta integración geográfica está siendo complementada por
+embargo, precisamente porque se pueden transmitir ideas instantaneamente a cualquier distancia y a cualquier número de personas, esta integración geográfica está siendo complementada por
 muchas otras formas de agrupamiento, de suerte
 que aquellos individuos que comaprten las mismas ideas e intereses pueden ser asociados y disciplinados en aras de una acción común aunque vivan a miles d e kilómetros de distancia.
 
@@ -326,35 +309,25 @@ siendo aplicada a cualquier institución o plan para propagar una doctrina o sis
 A juzgar por esta definición, podemos ver que en
 su sentido verdadero la propaganda es una forma de
 actividad humana perfectamente legítima. Cualquier
-sociedad, ya sea social, religiosa o política, que esté ani-
-mada por ciertas creencias y las exponga a fin de darlas
-a conocer, sea de viva voz o por escrito, practica la pro-
-paganda.
+sociedad, ya sea social, religiosa o política, que esté animada por ciertas creencias y las exponga a fin de darlas
+a conocer, sea de viva voz o por escrito, practica la propaganda.
 
 La verdad es poderosa y deberá imponerse, y si
 cualquier grupo de gentes cree haber descubierto una
 verdad valiosa, además del privilegio, tendrá el deber
-de diseminar esa verdad. Sin duda ese grupo deberá ad-
-vertir enseguida que la divulgación de la verdad sólo
-puede llevarse a cabo a gran escala y efectivamente a través de una campaña organizada, de modo que se ser-
-virán de la imprenta y el estrado como los mejores me-
-dios de darle una amplia circulación. La propaganda
-deviene perjudicial y reprensible sólo cuando sus auto-
-res saben consciente y deliberadamente que diseminan
+de diseminar esa verdad. Sin duda ese grupo deberá advertir enseguida que la divulgación de la verdad sólo
+puede llevarse a cabo a gran escala y efectivamente a través de una campaña organizada, de modo que se servirán de la imprenta y el estrado como los mejores medios de darle una amplia circulación. La propaganda
+deviene perjudicial y reprensible sólo cuando sus autores saben consciente y deliberadamente que diseminan
 mentiras, o cuando se proponen objetivos que saben
 perjudiciales para el bien común.
 
 
-«Propaganda», en su sentido correcto, es una pala-
-bra sin tacha, de honrado linaje, y con una historia dis-
+«Propaganda», en su sentido correcto, es una palabra sin tacha, de honrado linaje, y con una historia dis-
 tinguida. Que hoy conlleve un sentido siniestro no
 hace sino mostrar cuánto del niño conserva el adulto
-medio. Un grupo de ciudadanos habla y escribe en fa-
-vor de una determinada forma de actuar en una cues-
-tión sometida a debate, con la convicción de que les im-
-pulsa el mejor interés de la comunidad. ¿Propaganda?
-Ni mucho menos. Simplemente, una convincente decla-
-ración de veracidad. Pero si otro grupo de ciudadanos
+medio. Un grupo de ciudadanos habla y escribe en favor de una determinada forma de actuar en una cues-
+tión sometida a debate, con la convicción de que les impulsa el mejor interés de la comunidad. ¿Propaganda?
+Ni mucho menos. Simplemente, una convincente declaración de veracidad. Pero si otro grupo de ciudadanos
 expresa un punto de vista opuesto, sin dilación serán
 tachados con el siniestro nombre de propaganda ..
 
@@ -362,58 +335,38 @@ tachados con el siniestro nombre de propaganda ..
 
 dice un sabio y viejo proverbio. Démonos prisa en
 devolver esta vieja y distinguida palabra al lugar que le
-corresponde por derecho y restituyamos su digno sig-
-nificado para que puedan utilizarla nuestros hijos y los
+corresponde por derecho y restituyamos su digno significado para que puedan utilizarla nuestros hijos y los
 hijos de nuestros hijos.
 
 
-Incluso a las personas mejor informadas les sor-
-prendería conocer hasta qué punto la propaganda
+Incluso a las personas mejor informadas les sorprendería conocer hasta qué punto la propaganda
 determina nuestros asuntos. N o obstante, basta
-con rascar la superficie de un periódico para ha-
-cerse una idea de la autoridad de la propaganda sobre la opinión pública. La primera página de
+con rascar la superficie de un periódico para hacerse una idea de la autoridad de la propaganda sobre la opinión pública. La primera página de
 The New York Times del día en que escribo estas
 líneas contiene ocho noticias destacadas. Cuatro
-de ellas, es decir, la mitad, son propaganda. El lec-
-tor indolente las considerará como crónicas de su-
-cesos espontáneos. ¿Pero lo son? He aquí los titu-
-lares que las presentan: «Doce naciones advierten
-a China de la necesidad de reformas reales si quie-
-re recibir ayuda», «Pritchett anuncia que el sionis-
-mo fracasará», «Agentes inmobiliarios exigen una
-investigación sobre el transporte», y «Nuestro ni-
-vel de vida es el más alto de la historia, afirma el
+de ellas, es decir, la mitad, son propaganda. El lector indolente las considerará como crónicas de sucesos espontáneos. ¿Pero lo son? He aquí los titulares que las presentan: «Doce naciones advierten
+a China de la necesidad de reformas reales si quiere recibir ayuda», «Pritchett anuncia que el sionismo fracasará», «Agentes inmobiliarios exigen una
+investigación sobre el transporte», y «Nuestro nivel de vida es el más alto de la historia, afirma el
 Informe Hoover//».
 
-Examinémoslas en ese mismo orden: el pri-
-mer artículo da cuenta del informe conjunto de la
+Examinémoslas en ese mismo orden: el primer artículo da cuenta del informe conjunto de la
 Comisión de Extraterritorialidad en China en el
-que se expone la posición de Powers en el embro-
-llo chino. Lo que se dice es menos importante que
+que se expone la posición de Powers en el embrollo chino. Lo que se dice es menos importante que
 lo que en realidad es. Fue «hecho público hoy por
 el Departamento de Estado» con el objetivo de
 presentar al público estadounidense una imagen
-clara de la posición del gabinete. La fuente pro-
-porciona la autoridad, y el público estadouniden-
-se suele aceptar y apoyar las opiniones del Depar-
-tamento de Estado.
+clara de la posición del gabinete. La fuente proporciona la autoridad, y el público estadounidense suele aceptar y apoyar las opiniones del Departamento de Estado.
 
 
 El anuncio del doctor Pritchett, miembro del
-consejo de administración de la Fundación Car-
-negie por la Paz Internacional, intenta presentar
+consejo de administración de la Fundación Carnegie por la Paz Internacional, intenta presentar
 una descripción objetiva del establecimiento de esta colonia judía en medio de un mundo árabe
-inquieto. Cuando el doctor Pritchett pudo con-
-vencerse mediante su propia investigación de que
+inquieto. Cuando el doctor Pritchett pudo convencerse mediante su propia investigación de que
 a largo plazo el sionismo «traería más inquina e
 infelicidad tanto a los judíos como a los árabes»,
-la Fundación Carnegie difundió ese punto de vis-
-ta con todo el peso de su autoridad para que el
-público lo escuchase y se convenciera. La declara-
-ción del presidente de la Junta de agentes inmo-
-biliarios de Nueva York, al igual que el Informe
-Hoover, representan tentativas parecidas de enca-
-minar el público hacia una opinión determinada.
+la Fundación Carnegie difundió ese punto de vista con todo el peso de su autoridad para que el
+público lo escuchase y se convenciera. La declaración del presidente de la Junta de agentes inmobiliarios de Nueva York, al igual que el Informe
+Hoover, representan tentativas parecidas de encaminar el público hacia una opinión determinada.
 
 
 

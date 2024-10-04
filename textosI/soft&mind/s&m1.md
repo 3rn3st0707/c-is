@@ -8,7 +8,7 @@ slug: /category/software-y-mente-2014--andrei-sorin
 <blockquote>
 <p>«No te das cuenta que el único objetivo de la <a href="https://es.wikipedia.org/wiki/Neolengua" target="_blank" rel="noopener noreferrer">neolengua</a> es reducir el rango de pensamiento?... Se te ocurrio alguna vez que para el año 2050, como mucho, ni un solo ser humano vivo sera capáz de entender una conversacion como la que estamos teniendo?»</p>
 
-<div class="md_quote_author_size"><a href="https://es.wikipedia.org/wiki/George_Orwell" target="_blank" rel="noopener noreferrer">George Orwell</a>, <a href="https://es.wikipedia.org/wiki/1984_(novela)" target="_blank" rel="noopener noreferrer">1984</a></div>
+<a href="https://es.wikipedia.org/wiki/George_Orwell" target="_blank" rel="noopener noreferrer">George Orwell</a>, <a href="https://es.wikipedia.org/wiki/1984_(novela)" target="_blank" rel="noopener noreferrer">1984</a>
 </blockquote>
 
 <hr />
