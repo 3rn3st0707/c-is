@@ -55,9 +55,15 @@ teorización moderna de este efecto.
 
 <center>
 
+
+
 <img class="Img1"
-  src={require('/opt/lampp/htdocs/guia-diletante/static/img/phy.gif').default}
+  src={require('@site/static/img/phy.gif').default}
 /> 
+
+
+
+
 
 </center>
 

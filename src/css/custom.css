@@ -698,7 +698,7 @@ html[data-theme='light'] details {
   background-color: #0e1813;
   color: #00060a;
   border-color: #00060a;
-  padding: 2.4em;
+  padding: 2.1em;
 }
 
 
@@ -1758,7 +1758,7 @@ html[data-theme='light'] footer {
 
 
 html[data-theme='light'] .fadeout {
-  background: -webkit-linear-gradient(#111a00, #f9f9eb);
+  background: -webkit-linear-gradient(#111a00, antiquewhite);
 
   -webkit-text-fill-color: transparent;
 }

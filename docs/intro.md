@@ -8,6 +8,39 @@ slug: /
 >«Los partidarios de la tradición creen primero que otros saben lo que ellos no saben y después que ellos mismos saben lo que no saben»<br />
 >[Francis Bacon](https://es.wikipedia.org/wiki/Francis_Bacon) (1561-1626)
 
+<hr />
+
+
+El concepto de *"Nueva [Diletancia](https://es.wiktionary.org/wiki/diletante)"* que se propone en esta guía surge a partir de la aplastante hegemonía de la *"Ciencia Experimental"* (dominada por las ideas <span class="lnk">[reducionistas](/textosI/soft&mind/s&m2#reduccionismo-y-atomismo)</span> y <span class="lnk">[mecanicistas](/textosI/soft&mind/s&m2)</span>) en la academia y corporación moderna en desmedro de la *"Ciencia Teórica"* que ha sido relegada a un segundo plano en la medida que la investigación científica se ha vuelto cada vez más dependiente de la financiación privada y la rentabilidad inmediata.
+
+
+
+
+
+
+La Nueva Diletancia propone que la única salida disponible para el individuo que deseé mantenerse y desarrollarse en la tradición de la *"Ciencia Teórica"* pura es aceptar de antemano que se encuentra en una situación desventajosa (en incluso de <span class="lnk">[potencial coerción](/textosII/guerra#el-objetivo-es-desarmar-al-enemigo)</span> como veremos en los capítulos sucesivos) y que en el marco actual no es posible conciliar la posibilidad de exito profesional o de financiación academica para la investigación, con la posibilidad de mantenerse fiel a los principios de la *"Ciencia Teórica"*.
+
+En otras palabras, la única salida para quien se mantenga fiel a esos principios es volverse un *"[Diletante](https://es.wiktionary.org/wiki/diletante)"* en el sentido más clásico del término, es decir, un *"amante de la ciencia"* que no dependa de ella para su sustento.
+
+
+
+En este sentido la *"Nueva Diletancia"* es una propuesta de autoeducación realista que busca darle al aprendizaje un sentido convergente en contraposición a la divergencia planificada de la educación academica tradicional, aprovechando la libre o muy barata disponibilidad de material academico y cientifico en la red para actualizar y complementar los textos clásicos. 
+
+
+
+Si bien aquí el concepto de *Ciencia Teórica* es tomado en un sentido amplio, cabe recordar el adagio *"toda cadena es tan fuerte como su eslabon más débil"* por lo que en esta guía y en la bibliografia seleccionada se presta especial atención en remendar la forma en que los partidarios de la epistemología más estricta han subestimado los desarrollos de las *"Ciencias Sociales"* simplemente por no conformarse a sus estándares, pasando por alto su efectividad en terminos "populistas". 
+
+
+Ampliaremos este punto en la sección <span class="lnk">[Toda Teorización Social es Ingenieria Social](#toda-teorización-social-es-ingenieria-social)</span> con especial atención a la "Escuela Política Científica" con <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> y <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> como principales exponentes.
+
+
+Pero para una correcta perspectiva del problema que aquí nos ocupa debemos remontarnos primero al origen de esta *"la divergencia planificada de la educación academica"* que no esta en las aulas sino en las fábricas y oficinas de los siglos XIX y XX, donde surgio la tendencia que domina desde hace más de un siglo la producción material: la "especialización"
+
+
+
+
+## Especialización y Cientificismo 
+
 >«La especialización es para los insectos»<br />
 >[Robert A. Heinlein](https://es.wikipedia.org/wiki/Robert_A._Heinlein) (1907-1988)
 
@@ -24,34 +57,24 @@ Esta noción fue tolerada durante mucho tiempo y reinó incuestionable durante d
 
 
 
-Esta expansión se extendio durante más de un siglo durante el cual sus beneficios siempre resultaron suficientes para imponerse por sobre las críticas que decada tras decada denunciaban las concecuencias negativas, las peores de las cuales esperaban para el momento en que inevitablemenente dicha tendencia expansiva se revirtiese.
 
 
 
-Hoy hemos llegado a ese punto y es una excelente oportunidad para revisar, analizar, contrastar y actualizar las obras critícas que durante todo ese tiempo no sólo denunciaron el lado oscuro de las prácticas industriales que permitieron la corporatización de la sociedad, sino que ademas predijeron, a menudo con una precisión sorprendente, los eventos de los que hoy somos testigos muchas decadas despues. 
 
 
 
-Es por eso que la sección *<a href="/textosI" class="lnk">Textos I</a>* incluye titulos tales como <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941), <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978), <em><a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">Historia Secreta de la Educación</a></em> (2003) y <em><a href="/textosI/category/software-y-mente-2014--andrei-sorin" class="lnk">Software y Mente</a></em> (2014) que tratan sobre los efectos que en la sociedad a generado la adopción generalizada y progresiva de las técnicas de [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo).
+Es por eso que la sección *<span class="lnk">[Textos I](/textosI)</span>* incluye titulos tales como <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941), <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978), <em><a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">Historia Secreta de la Educación</a></em> (2003) y <em><span class="lnk">[Software y Mente](/textosI/category/software-y-mente-2014--andrei-sorin)</span></em> (2014) que tratan sobre los efectos que en la sociedad a generado la adopción generalizada y progresiva de las técnicas de [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo).
 
 
 
-Mientras que muchos de los titulos de las secciones *<a href="/textosI" class="lnk">Textos I</a>* y *<a href="/textosII/guerra" class="lnk">Textos II</a>* resultan eclecticos entre sí cuando se los considera desde el punto de la academia tradicional, esta sección o *<a href="/#" class="lnk">Guia de la Nueva Diletancia</a>* obra de su compilador (o "curador" como se estila decir ahora) intentará darle un sentido más convergente e interrealcionado que resulte en una actualización de estos textos en contraste con el sentido divergente y aislado de la educación tradicional, pensada como un mecanismo de apoyo a la division del trabajo.
 
-
-Desde ya sería necio no admitir de entrada que quien decida autoeducarse sin la estructura, facilidades y posibilidad de certificación rentable de las instituciones educativas formales debe, a fin de preservar en la medida que sea posible la rigurosidad en sus esfuerzos, ser realista sobre las limitaciones de su caso.
-
-
-Y los más realista sería enfocarse sólo en lo que el sistema educativo actual no ofrece. 
-
-
-O mejor dicho lo que YA no ofrece: el creciente interes por viejos libros academicos, cientificos, sociologicos y un largo etcetera hoy libremente disponibles por medios como [archive.org](https://archive.org) y otros, demuestra que el mismo sistema educativo no siempre tuvo el tipo de restricciones (tenia otras, obviamente) que tiene hoy y eso nos da una idea de como ha evolucionado.
 
 
 Mientras que durante la mayor parte de los últimos 150 años las instituciones academicas fueron el garante de que la noción de ciencia y lo científico fuesen medidos y certificados con rigurosidad, hoy aparecen como el principal factor en la promoción de lo que muchos consieran [cientificismo](https://es.wikipedia.org/wiki/Cientificismo), he incluso los estudiantes de ciencias duras deben hacer concesiones ideológicas no relacionadas.
 
 
 En mi opinión el peor error que han cometido por decadas y decadas los partidarios de la metodología científica tradicional es simplemente desdeñar las "ciencias sociales" o "humanistas" por no pasar las pruebas epistemologícas con las que usualmente evaluan las teorías de las ciencias fácticas, dado que la sociología, psicología, politología y demas cumplen un claro proposito fáctico en cuanto a <span class="lnk">[la manipulación de las masas](/textosII/Masas#sugestibilidad-y-credulidad-de-las-masas)</span> aún cuando sus capacidad predictiva sea muy limitada en comparación.
+
 
 <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> no paso por alto este hecho y lo plasmo, en parte, en *<a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943)* de la cual no por casualidad esta incluida una traducción parcial en la sección *<a href="/textosI" class="lnk">Textos I</a>* como *<span class="lnk">[Los Maquiavelistas](/textosI/category/los-maquiavelistas-1943--james-burnham)</span>* donde se reseñana las teorías de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> y <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a>.
 
@@ -74,7 +97,7 @@ vigilia»
 
 
 
->[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](/) (1987)
+>[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](https://books.google.com.gi/books?id=nVcKcYuOzt8C&printsec=frontcover&hl=es#v=onepage&q&f=false) (1987)
 
 <br />
 
@@ -113,18 +136,12 @@ Sobre ese proceso veremos más en la <span class="lnk">[la próxima sección](#t
 Por su parte la [Ingeniería Inversa](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa) *"...es el proceso llevado a cabo con el objetivo de obtener información o un diseño a partir de un producto, con el fin de determinar cuáles son sus componentes y de qué manera interactúan entre sí y cuál fue el proceso de fabricación"* y el primer paso hacia la *"Ingeniería Social Inversa"* es subir un nivel desde la ingeniería inversa del producto hacia la ingenieria inversa del proceso de producción industrial mismo.
 
 
-Si bien como mencione más arriba son varios los titulos presentes en la sección *<a href="/textosI" class="lnk">Textos I</a>* que hacen referencia a los efectos de la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) en la sociedad, <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978) de [Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/) es el que pone más énfasis en el proceso de producción mismo, despejando mitos y exponiendo la verdadera naturaleza de fenomenos como el [Taylorismo](https://es.wikipedia.org/wiki/Taylorismo) y el [Fordismo](https://es.wikipedia.org/wiki/Fordismo) que tras más de un siglo permanecen como factores tan incomprendidos como subestimados en el análisis de la sociedad moderna.
+Un excelente punto de partida en ese sentido es <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978) de Benjamin Coriat, que pone especial énfasis en el proceso de producción mismo, despejando mitos y exponiendo la verdadera naturaleza de fenomenos como el Taylorismo y el Fordismo que tras más de un siglo permanecen como factores tan incomprendidos como subestimados en el análisis de la economía moderna.
+
+El capítulo <a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a> de este ebook complementara y actualizará algunios de sus temas con los aportes de otros textos relacionados tales como *<span class="lnk">[Técnica y Civilización](/textosII/mumford)</span>* (1934), <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941),  <em>[Education and the Cult of Efficiency](https://faculty.washington.edu/rsoder/EDUC305/callahancultefficiency.pdf)</em> <span class="pdf">[PDF]</span> (1962), <em>[El Taller y el Robot](https://books.google.com.gi/books?id=nVcKcYuOzt8C&printsec=frontcover&hl=es#v=onepage&q&f=false)</em> (1987),  <em><span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span></em> (1995), <em><a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">Historia Secreta de la Educación</a></em> (2003) o <em><a href="/textosI/category/software-y-mente-2014--andrei-sorin" class="lnk">Software y Mente</a></em> (2014).
 
 
-Por su parte el primer capítulo de la guía <em><a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a></em> se trata principalmente de una actualización de ese y los otros textos de este sitio sobre dicho tema.
-
-
-
-
-La *"Ingeniería Social Inversa"* tiene mucho leer, investigar y *"unir los puntos"* es por eso que este sitio pone mucho enfasis en enriquecer los textos con un profuso linkeado. Más aún, notarán que los <a href="/" class="lnk">links internos</a> y los [links externos](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) son de diferentes colores. Esta idea fue tomada de mi trabajo anterior [Armonia Expuesta](https://armonia-expuesta.netlify.app/) donde debido a la misma naturaleza de la materia de estudio el linkeado interno es aún más intenso, generando una [estructura paralela](https://armonia-expuesta.netlify.app/#la-estructura-paralela).
-
-
-Ahora pasemos al primer principio de la *"Ingeniería Social Inversa"*.
+Ahora pasemos al primer principio de la "Ingeniería Social Inversa".
 
 
 
@@ -141,7 +158,9 @@ transforme sin cesar en futuro. Los ingenieros del tiempo no son superhombres:
 los hay buenos, los hay malos. Y, como actúan allá, en el lejano pasado de los
 futuros posibles, civilizaciones se hacen o se deshacen, seres nacen y mueren...»
 
->[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](/) (1987)
+>[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](https://books.google.com.gi/books?id=nVcKcYuOzt8C&printsec=frontcover&hl=es#v=onepage&q&f=false) (1987)
+
+<br />
 
 >«Quien con monstruos lucha cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, también éste mira dentro de ti»
 
@@ -157,9 +176,9 @@ Un ejemplo claro de esto es <em><a href="/textosI/category/la-revolución-gerenc
 
 
 
-Sin embargo a medida que me abocaba a esta tarea me di cuenta de que pocas disciplinas tienden a influir en su propio objeto de estudio tanto como las *"ciencias sociales"* concluyendo en la premisa que da título a esta sección:
+Sin embargo a medida que me abocaba a esta tarea me di cuenta de que pocas disciplinas tienden a influir en su propio objeto de estudio tanto como las *"ciencias sociales"*, concluyendo en la premisa que da título a esta sección:
 
->
+>"Toda Teorización Social es Ingenieria Social"
 
 Efectivamente, pese a que la intención explícita en la cual se producen la mayoría de las investigaciones y teorizaciones en torno a los fenómenos sociales son con espíritu "crítico" y con la finalidad divulgativa de informar a las masas, en la práctica casi invariablemente terminan siendo utilizadas como un instrumento de control sobre estas mismas masas por una minoría.
 
@@ -171,12 +190,58 @@ Este mismo fenomeno es una expresión más de una de las *constantes* más conoc
 ><em><a href="/textosI/maquiavelistas/maq2" class="lnk">Mosca: La Clase Gobernante</a></em>
 
 
-Por tanto la premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq8" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, su expresión "intelectual", una que puntualmente apunta a derribar los mitos "liberadores" de la educación.
+Por tanto la premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq8" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, su expresión "intelectual", una que puntualmente apunta a derribar los <a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">mitos "liberadores" de la educación</a>.
 
 
-Sin bien, como muchos correctamente suponen, *La Ley de Hierro de la Oligarquia* es una cuestion cíclica que viene dando vulta desde el principio de los tiempos, este último ciclo, el que arranco a comienzos del siglo XX y aún no a sido liquidado, tiene una particularidad nueva respecto a sus encarnaciones previas.
+La forma más sistematica e institucionalizada de este tipo de cooptación también esta muy ligada al boom de productividad que se dio a principios del siglo XX en torno al <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, <a href="https://es.wikipedia.org/wiki/Fordismo" target="_blank" rel="noopener noreferrer">Fordismo</a>, <a href="https://en.wikipedia.org/wiki/Time_and_motion_study" target="_blank" rel="noopener noreferrer">Time and Motion Study</a>, etc:
+
+>"Los origenes de la [Ingeniería Social](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(ciencia_pol%C3%ADtica)) moderna también se encuentran a comienzos del proceso de expansión industrial y acumulación de capital basado en la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) que comenzo a comienzos del siglo XX, cuando los insaciables pulpos económicos colectivamente conocidos como [The Robber Barons](https://es.wikipedia.org/wiki/Barones_ladrones), acosados por la opinion pública y las leyes antimonopolicas, decidieron reinvertir parte de las fabulosas ganacias generadas por las <span class="lnk">[nuevas normas de producción](/textosI/t&c/t&c4#nuevas-normas-de-producción)</span> en blanquear su imagen y sus activos bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy)."
 
 
+><a href="#ingeniería-social-inversa" class="lnk">Ingeniería Social Inversa</a>
+
+
+
+Mientras que muchos supondran, acertadamente, que <em><a href="/textosI/maquiavelistas/maq8" class="lnk">La Ley de Hierro de la Oligarquia</a></em> es un proceso cíclico que ha ocurrido muchas veces antes en la historia de la humanidad, la modalidad de cooptación actual, basado en las técnicas de producción modernas, inevitablemente esta destinada a generar cambios mucho más permanentes, dado que ella genera una "inversión de valores" que nunca se había dado en la escala actual.
+
+Dicha tendencia se vuelve más definida a partir del <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, que fijará el principio básico de esta inversión continuada hasta hoy por sus descendientes directos, los modernos métodos de producción y control.
+
+Debido a la subestimada influencia de los sistemas basados en la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) en la sociedad moderna y muy especificamente en la <span class="lnk">[ingeniería social](#toda-teorización-social-es-ingenieria-social)</span>, el primer capítulo de esta guía <a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a>, esta a dedicado a estudiar los efectos de ese momento decisivo.
+
+
+Pasemos ahora al segundo principio de la <a href="#ingeniería-social-inversa" class="lnk">Ingeniería Social Inversa</a>
+
+## Toda Ingeniería Inversa es Ingeniería Social Inversa
+
+
+>"Los productos electronicos para el consumidor individual y otras tecnologías utilizadas en los negocios y la industria, comienzan su vida dentro de la comunidad de inteligencia y sólo cuando ya han superado su periodo de utilidad allí emergen a la esfera pública, a menudo como el último grito de la moda.
+
+>La [camara Polaroid](https://es.wikipedia.org/wiki/C%C3%A1mara_instant%C3%A1nea) es un ejemplo clásico. Su inventor [Edwin Land](https://es.wikipedia.org/wiki/Edwin_Herbert_Land) fue un miembro de la comunidadad de inteligencia durante años, en el area de vigilancia electronica. La Polaroid fue inventada mucho antes de su debut en los escaparates"
+
+>[David McGowan](https://centerforaninformedamerica.com/about-dave/), [Sony's Magic Cameras](https://centerforaninformedamerica.com/sonys-magic-cameras/) (2000)
+
+
+
+
+<br />
+
+>"Mientras que hoy, en la producción material, el mecanismo de la oferta y la demanda se halla en vías de disolución, dicho mecanismo actúa en la [superestructura](https://es.wikipedia.org/wiki/Infraestructura_y_superestructura) como un freno en favor de los poderes establecidos"
+
+>[Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno) y [Max Horkheimer](/), *[Dialectica de la ilustración](https://comunicacionyteorias1.files.wordpress.com/2011/08/horkheimer-m-y-adorno-t-w-dialectica-de-la-ilustracion.pdf) <span class="pdf">[PDF]</span>* (1947).
+
+<br />
+
+>"Utilizar los métodos e invenciones disponibles, tal como correctamente se supone, sucudiria la estructura capitalista. El «desempleo tecnológico» ya esta presente en el actual capitalismo, pero no es nada comparado con lo que seria el desempleo tecnológico si el capitalisamo hiciera uso de la tecnologia disponible"
+
+><a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a>, <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941)
+
+
+<br />
+
+
+>"Heidegger ennobleció la muerte decretada por [Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa"
+
+>[Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno), <span class="lnk">[Spengler Tras El Ocaso](/textosII/ocaso)</span> (1938)
 
 
 

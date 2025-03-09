@@ -6,7 +6,7 @@ slug: ocaso
 
 <hr />
 
-Capìtulo 3 de *[Prismas](https://sociologiaycultura.files.wordpress.com/2014/02/adorno-theodor-1955-prismas.pdf)  <span class="pdf">[PDF]</span>* (1955) <br />
+Capìtulo 3 de *[Prismas](https://sociologiaycultura.files.wordpress.com/2014/02/adorno-theodor-1955-prismas.pdf)  <span class="pdf">[PDF]</span>* (Compilación de 1955, texto original de 1938) <br />
 de [Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno) (1903-1969)
 
 

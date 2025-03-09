@@ -169,7 +169,7 @@ multiplicidad de figuras queda reducida a posición y estructura, la historia a 
 proposiciones empíricas debe darse, también según Bacon, una evidente relación lógica a través de los diferentes grados de universalidad.
 
 
-[De Maistre](https://es.wikipedia.org/wiki/Joseph_de_Maistre) se burla de él diciendo que cultiva «*une idole d'échelle*»*.cd La lógica formal ha sido la gran escuela de la unificación. Ella
+[De Maistre](https://es.wikipedia.org/wiki/Joseph_de_Maistre) se burla de él diciendo que cultiva «*une idole d'échelle*»*. La lógica formal ha sido la gran escuela de la unificación. Ella
 ofreció a los ilustrados el esquema de la calculabilidad del mundo. La
 equiparación mitologizante de las ideas con los números en los últimos escritos de Platón expresa el anhelo de toda desmitologización: el
 número se convirtió en el canon de la Ilustración.

@@ -90,6 +90,7 @@ H…”. Inexorablemente ella responde: “Estás en el mismo lugar; por lo tant
 tú eres H…”. Nadie puede pleitear contra la estructura»
 
 
+
 La identificación es, pues, una cuestión de lugar, un efecto de posición
 estructural. De ahí la importancia de la situación como estructura de base de
 la identificación en un relato de tipo clásico: cada situación que surge en el
@@ -150,8 +151,7 @@ parafraseando a Jacques Lacan, está en su lugar, no importa dónde.
 
 
 
-En una
-escena de agresión, por ejemplo, el espectador se identifica a la vez con el
+En una escena de agresión, por ejemplo, el espectador se identifica a la vez con el
 agresor (con un placer sádico) y con el agredido (con angustia); en una
 escena donde se expresa una demanda de afectividad, se identificará
 simultáneamente con el que está en la posición de demandante, y cuyo deseo
