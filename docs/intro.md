@@ -11,33 +11,37 @@ slug: /
 <hr />
 
 
-El concepto de *"Nueva [Diletancia](https://es.wiktionary.org/wiki/diletante)"* que se propone en esta guía surge a partir de la aplastante hegemonía de la *"Ciencia Experimental"* (dominada por las ideas <span class="lnk">[reducionistas](/textosI/soft&mind/s&m2#reduccionismo-y-atomismo)</span> y <span class="lnk">[mecanicistas](/textosI/soft&mind/s&m2)</span>) en la academia y corporación moderna en desmedro de la *"Ciencia Teórica"* que ha sido relegada a un segundo plano en la medida que la investigación científica se ha vuelto cada vez más dependiente de la financiación privada y la rentabilidad inmediata.
-
-
-
+El concepto de *"Nueva [Diletancia](https://es.wiktionary.org/wiki/diletante)"* que se propone en esta guía surge a partir de la aplastante hegemonía de la *"Ciencia Experimental"* (dominada por las ideas <span class="lnk">[reducionistas](/textosI/soft&mind/s&m2#reduccionismo-y-atomismo)</span> y <span class="lnk">[mecanicistas](/textosI/soft&mind/s&m2)</span>) en la academia y corporación moderna en desmedro de la *"Ciencia Teórica"* que ha sido relegada a un segundo plano en la medida que la investigación científica se ha vuelto cada vez más dependiente de la financiación externa y por tanto de la rentabilidad inmediata.
 
 
 
 La Nueva Diletancia propone que la única salida disponible para el individuo que deseé mantenerse y desarrollarse en la tradición de la *"Ciencia Teórica"* pura es aceptar de antemano que se encuentra en una situación desventajosa (en incluso de <span class="lnk">[potencial coerción](/textosII/guerra#el-objetivo-es-desarmar-al-enemigo)</span> como veremos en los capítulos sucesivos) y que en el marco actual no es posible conciliar la posibilidad de exito profesional o de financiación academica para la investigación, con la posibilidad de mantenerse fiel a los principios de la *"Ciencia Teórica"*.
 
+
 En otras palabras, la única salida para quien se mantenga fiel a esos principios es volverse un *"[Diletante](https://es.wiktionary.org/wiki/diletante)"* en el sentido más clásico del término, es decir, un *"amante de la ciencia"* que no dependa de ella para su sustento.
 
 
 
-En este sentido la *"Nueva Diletancia"* es una propuesta de autoeducación realista que busca darle al aprendizaje un sentido convergente en contraposición a la divergencia planificada de la educación academica tradicional, aprovechando la libre o muy barata disponibilidad de material academico y cientifico en la red para actualizar y complementar los textos clásicos. 
+En este sentido la *"Nueva Diletancia"* es una propuesta de autoeducación realista que busca darle al aprendizaje un sentido convergente en contraposición a la divergencia planificada de la educación academica tradicional inevitablemente influenciada por la creciente [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo).
 
 
 
-Si bien aquí el concepto de *Ciencia Teórica* es tomado en un sentido amplio, cabe recordar el adagio *"toda cadena es tan fuerte como su eslabon más débil"* por lo que en esta guía y en la bibliografia seleccionada se presta especial atención en remendar la forma en que los partidarios de la epistemología más estricta han subestimado los desarrollos de las *"Ciencias Sociales"* simplemente por no conformarse a sus estándares, pasando por alto su efectividad en terminos "populistas". 
+ Para apoyar tal tarea nos basaremos en una selección de lecturas sugeridas deliveradamente eclectica, aprovechando la libre disponibilidad de material academico y cientifico en internet, dichas lecturas no sólo se encuentran en las secciones <span class="lnk">[Textos I](/textosI)</span> y <span class="lnk">[Textos II](/textosII)</span>, sino también en los inumerables links en cada texto de este sitio. 
 
 
-Ampliaremos este punto en la sección <span class="lnk">[Toda Teorización Social es Ingenieria Social](#toda-teorización-social-es-ingenieria-social)</span> con especial atención a la "Escuela Política Científica" con <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> y <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> como principales exponentes.
+
+ Ante las inevitables limitaciones materiales y de tiempo que el *"nuevo diletante"* enfrenta la opción más realista es enfocarse en un aspecto que a sido descuidado por los amantes de la ciencia teórica: Las "Ciencias Sociales". 
+ 
+ Pese a la inevitable preonderancia de cuestiones ideológicas por sobre las científicas en dicho campo (que debería llamarse "Pseudociencias Sociales"), sí existe una tradición de análisis político que ha cumplido en varios de sus requisitos, incluido el de predecir efectos ulteriories exitosamente: La "Escuela Política Científica" con <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> y <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> como principales exponentes.
+
+
+Ampliaremos este punto en la sección <span class="lnk">[Toda Teorización Social es Ingenieria Social](#toda-teorización-social-es-ingenieria-social)</span>.
 
 
 Pero para una correcta perspectiva del problema que aquí nos ocupa debemos remontarnos primero al origen de esta *"la divergencia planificada de la educación academica"* que no esta en las aulas sino en las fábricas y oficinas de los siglos XIX y XX, donde surgio la tendencia que domina desde hace más de un siglo la producción material: la "especialización"
 
 
-
+<br />
 
 ## Especialización y Cientificismo 
 
@@ -60,23 +64,20 @@ Esta noción fue tolerada durante mucho tiempo y reinó incuestionable durante d
 
 
 
-
-
-
-Es por eso que la sección *<span class="lnk">[Textos I](/textosI)</span>* incluye titulos tales como <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941), <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978), <em><a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">Historia Secreta de la Educación</a></em> (2003) y <em><span class="lnk">[Software y Mente](/textosI/category/software-y-mente-2014--andrei-sorin)</span></em> (2014) que tratan sobre los efectos que en la sociedad a generado la adopción generalizada y progresiva de las técnicas de [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo).
+Es por eso que la sección <span class="lnk">[Textos I](/textosI)</span> incluye titulos tales como <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> (1941), <em><a href="/textosI/category/el-taller-y-el-cronometro-1978-benjamin-coriat" class="lnk">El Taller y el Cronómetro</a></em> (1978), <em><a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">Historia Secreta de la Educación</a></em> (2003) y <em><span class="lnk">[Software y Mente](/textosI/category/software-y-mente-2014--andrei-sorin)</span></em> (2014) que tratan sobre los efectos que en la sociedad a generado la adopción generalizada y progresiva de las técnicas de [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo).
 
 
 
 
 
 
-Mientras que durante la mayor parte de los últimos 150 años las instituciones academicas fueron el garante de que la noción de ciencia y lo científico fuesen medidos y certificados con rigurosidad, hoy aparecen como el principal factor en la promoción de lo que muchos consieran [cientificismo](https://es.wikipedia.org/wiki/Cientificismo), he incluso los estudiantes de ciencias duras deben hacer concesiones ideológicas no relacionadas.
+Mientras que durante la mayor parte de los últimos 150 años las instituciones academicas fueron el garante de que la noción de ciencia y lo científico fuesen medidos y certificados con rigurosidad, hoy aparecen como el principal factor en la promoción de lo que muchos consieran [cientificismo](https://es.wikipedia.org/wiki/Cientificismo).
 
 
-En mi opinión el peor error que han cometido por decadas y decadas los partidarios de la metodología científica tradicional es simplemente desdeñar las "ciencias sociales" o "humanistas" por no pasar las pruebas epistemologícas con las que usualmente evaluan las teorías de las ciencias fácticas, dado que la sociología, psicología, politología y demas cumplen un claro proposito fáctico en cuanto a <span class="lnk">[la manipulación de las masas](/textosII/Masas#sugestibilidad-y-credulidad-de-las-masas)</span> aún cuando sus capacidad predictiva sea muy limitada en comparación.
+Cometeriamos un error si desdeñaramos las "ciencias sociales" o "humanistas" por no pasar las pruebas epistemologícas con las que usualmente evaluan las teorías de las ciencias fácticas, dado que la sociología, psicología, politología y demas cumplen un claro proposito fáctico en cuanto a <span class="lnk">[la manipulación de las masas](/textosII/Masas#sugestibilidad-y-credulidad-de-las-masas)</span> aún cuando sus capacidad predictiva sea muy limitada en comparación, deben ser analizadas.
 
 
-<a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> no paso por alto este hecho y lo plasmo, en parte, en *<a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943)* de la cual no por casualidad esta incluida una traducción parcial en la sección *<a href="/textosI" class="lnk">Textos I</a>* como *<span class="lnk">[Los Maquiavelistas](/textosI/category/los-maquiavelistas-1943--james-burnham)</span>* donde se reseñana las teorías de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> y <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a>.
+Este es el típo de análisis que plasmo <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a>  en *<a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943)* traducida parcialmente en la sección <a href="/textosI" class="lnk">Textos I</a> como *<span class="lnk">[Los Maquiavelistas](/textosI/category/los-maquiavelistas-1943--james-burnham)</span>* donde se reseñana las teorías de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> y <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a>.
 
 
 Pese a la evidente existencia de una tradición en ese tipo de analisis, poco se ha avanzado desde entonces en un marco compatible con las ciencias fácticas que considere a las "ciencias sociales" en función de sus implicancias reales y no simplemente de sus postulados y dado que esta guía busca contraponer cierta convergencia a la divergencia planificada de la educación academica tradicional, se me ocurrio que una matería única sería una buena idea.
@@ -84,6 +85,7 @@ Pese a la evidente existencia de una tradición en ese tipo de analisis, poco se
 
 Esa matería única es la *"Ingeniería Social Inversa"* 
 
+<br />
 
  ## Ingeniería Social Inversa
 
@@ -143,7 +145,7 @@ El capítulo <a href="/category/taylorismo-progresismo-e-ingeniería-social" cla
 
 Ahora pasemos al primer principio de la "Ingeniería Social Inversa".
 
-
+<br />
 
 ## Toda Teorización Social es Ingenieria Social
 
@@ -190,7 +192,7 @@ Este mismo fenomeno es una expresión más de una de las *constantes* más conoc
 ><em><a href="/textosI/maquiavelistas/maq2" class="lnk">Mosca: La Clase Gobernante</a></em>
 
 
-Por tanto la premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq8" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, su expresión "intelectual", una que puntualmente apunta a derribar los <a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">mitos "liberadores" de la educación</a>.
+Por tanto la premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq10" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, su expresión "intelectual", una que puntualmente apunta a derribar los <a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">mitos "liberadores" de la educación</a>.
 
 
 La forma más sistematica e institucionalizada de este tipo de cooptación también esta muy ligada al boom de productividad que se dio a principios del siglo XX en torno al <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, <a href="https://es.wikipedia.org/wiki/Fordismo" target="_blank" rel="noopener noreferrer">Fordismo</a>, <a href="https://en.wikipedia.org/wiki/Time_and_motion_study" target="_blank" rel="noopener noreferrer">Time and Motion Study</a>, etc:
@@ -210,6 +212,11 @@ Debido a la subestimada influencia de los sistemas basados en la [división del 
 
 
 Pasemos ahora al segundo principio de la <a href="#ingeniería-social-inversa" class="lnk">Ingeniería Social Inversa</a>
+
+
+<br />
+
+
 
 ## Toda Ingeniería Inversa es Ingeniería Social Inversa
 
@@ -239,16 +246,6 @@ Pasemos ahora al segundo principio de la <a href="#ingeniería-social-inversa" c
 <br />
 
 
->"Heidegger ennobleció la muerte decretada por [Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa"
+>"Heidegger enobleció la muerte decretada por [Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa"
 
 >[Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno), <span class="lnk">[Spengler Tras El Ocaso](/textosII/ocaso)</span> (1938)
-
-
-
-
-
-
-
-
-
-

@@ -150,7 +150,10 @@ Aquí se encuentra formulada de forma apenas distinta, la vieja idea de los clá
 
 Del axioma básico de que sólo el trabajo es creador de riqueza, Taylor saca las últimas consecuencias, ya que hace de él el fundamento de una teoría del «crecimiento». En efecto, sólo un aumento de la productividad del trabajo puede favorecer el desarrollo de la acumulación del capital.
 
-En efecto, sólo un aumento de la productividad del trabajo puede favorecer el desarrollo de la acumulación del capital.
+>"Estos cambios [de la productividad] son los que interesan al pobre,
+los que le dan el más alto nivel de vida y transforman los objetos
+de lujo de una generación en objetos de primera necesidad para la
+siguiente"
 
 
 Hecho notable: la idea de una producción y un consumo en masa está ya en germen en el aumento de la productividad.

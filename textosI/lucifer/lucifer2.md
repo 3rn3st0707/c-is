@@ -7,6 +7,7 @@ sidebar_position: 2
 >«Los hombres que reciben los mayores honores son los más grandes asesinos. Ellos creen que sirven al prójimo...»<br /><br />
 Henry Miller 
 
+<hr />
 <br />
 
 

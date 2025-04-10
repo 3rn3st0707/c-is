@@ -65,5 +65,5 @@ Por muy arbitraria que pueda parecer esta idea de la historia como la historia d
 
 
 
-Aún si la teoría decidiera que en última instancia que los movimientos de las masas son la cause de lo que ocurre en la historia, aún así estos movimientos adquieren significancia historica sólo cuando alteran instituciones mayores y esto resulta en un cambio en el caracter y composición de la clase gobernante (ver *<a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n77/mode/2up" target="_blank" rel="noopener noreferrer">Mosca: Composition and Character of the Ruling Class</a>*). De esta forma, el analisis de la clase gobernante da, directa o indirectamente una historia adecuada y una ciencia política adecuada.
+Aún si la teoría decidiera que en última instancia que los movimientos de las masas son la cause de lo que ocurre en la historia, aún así estos movimientos adquieren significancia historica sólo cuando alteran instituciones mayores y esto resulta en un cambio en el <span class="lnk"><a href="/textosI/maquiavelistas/maq3">caracter y composición de la clase gobernante</a></span>. De esta forma, el analisis de la clase gobernante da, directa o indirectamente una historia adecuada y una ciencia política adecuada.
 

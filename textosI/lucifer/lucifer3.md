@@ -7,6 +7,7 @@ sidebar_position: 3
 >"I am a man who will fight for your honor I'll be the hero you are dreaming of"
 [de una canción popular de Peter Cetera](https://youtu.be/E3TJl_gyXPc)
 
+<hr />
 <br />
 
 Los machos juegan el rol más grande en los baños de sangre: Cometen la mayor parte de los asesinatos y sufren la mayor parte de las muertes violentas. Esto los hace sonar bastante atroces. Y de hehco lo son. Los machos, por mucho, sobrepasan a las hembras en matéria de agresión. Extirpale los testículos a un gallo y se volvera un ave pacífica. Reingerteselos en su estomago y las hormonas masculinas una vez que vuelvan al torrente sanguineo y lo vera buscando pelea denuevo.

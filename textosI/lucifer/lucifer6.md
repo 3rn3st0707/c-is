@@ -13,6 +13,7 @@ sidebar_position: 6
 [Henry Adams](https://es.wikipedia.org/wiki/Henry_Adams)
 
 
+<hr />
 <br />
 
 Un ingrediente más es necesario para hacer que la noción de enemigo prenda: Odio. La persistencia con la cual las sociedades otorgan permiso para odiar es sobrecojedora: El marxismo da permiso a los desposeidos para odiar a los que posen. La critiandad medioeval daba permiso para odiar a los paganos. El Islam da permiso para odiar a los infieles. Los sindicatos dan permiso para odiar a los jefes, los grupos pacifistas dan permiso para odiar a los militaristas. Incluso Jesus dio permiso para mirar con recelo a los ricos. Cada cultura elige un enemigo al cual culpar de una porción de la maldad humana y convierte el odio a dicho grupo en una virtud. Pero de que materia prima se destila este adhesivo de grupos?

@@ -12,6 +12,7 @@ sidebar_position: 7
 >"Los hombres fueron diseñados para vidas cortas, crueles y brutales. Las mujeres fueron diseñadas para vidas largas y miserables"<br />
 >[Dr Estelle Ramey](https://es.wikipedia.org/wiki/Estelle_Ramey)
 
+<hr />
 <br />
 
 
