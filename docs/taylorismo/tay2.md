@@ -3,31 +3,30 @@ sidebar_position: 2
 ---
 
 
-# Progresismo y Reduccionismo
+# Del Destajo a la IA: Una Genealogía de la Sustitución 
 
->"Sin embargo el [Jeffersonianismo](https://es.wikipedia.org/wiki/Democracia_de_Jefferson) de [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) no debería exagerarse. En [The Reinterpretation of American History, 1900-1916](https://archive.org/details/KolkoGabrielTheTriumphOfConservatism), Gabriel Kolko advierte que "Brandeis estaba enamorado de las doctrinas del <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span> de <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a>" una "filosofía completamente totalitaria" y no ve diferencia en la práctica entre el [New Nationalism](https://en.wikipedia.org/wiki/New_Nationalism_(Theodore_Roosevelt)) de Theodore Roosevelt y la [New Freedom](https://en.wikipedia.org/wiki/The_New_Freedom) de Wilson y Brandeis"
+>"El <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span>, como método explícito, dejó de estar de moda después de la década de 1930. Sin embargo, sus principios continuaron influyendo en el diseño de trabajos hasta el día de hoy ([Harry Braverman](https://en.wikipedia.org/wiki/Harry_Braverman) 1974: 119, [L. U. De Sitter](https://www.ru.nl/english/people/sitter-l-u-de/) 1981: 21, Michael Schumann et al. 1989: 67). Ejemplos incluyen:
 
+- En bancos y compañías de seguros, existe una tendencia a analizar y estandarizar permanentemente el trabajo. Las tareas rutinarias se delegan a una categoría de trabajadores que solo se ocupan del trabajo "en masa" y que deben trabajar según reglas estrictamente especificadas. Un grupo élite maneja los casos más complicados e incidentales. El trabajo de este grupo élite se analiza constantemente para ver si partes pueden formalizarse y transferirse al grupo de trabajo en masa ([Hans Doorewaard](https://www.ru.nl/english/people/doorewaard-h/) 1986)"
 
->[Samuel T. Francis](https://americasfuture.org/the-castaway), Nota 180 de de [Leviathan and its enemies](https://archive.org/details/LeviathanAndItsEnemiesSamuelT.Francis2016) (1995) <br />
->Capítulo <span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span>
-
-<br />
-
->"The Taylor system—without its initiators knowing or wishing it—is preparing the time when the 
-proletariat will take over all social production and appoint its own workers’ 
-committees for the purpose of properly distributing and rationalising all social labour. 
-Large-scale production, machinery, railways, telephone—all provide thousands of opportunities 
-to cut by three-fourths the working time of the organised workers and make them 
-four times better off than they are today"
-
->"El sistema de Taylor -sin que sus iniciadores lo sepan o lo deseen- esta preparando el momento 
-cuando el proletariado tome toda la producion social y nombre sus propios comites de trabajadores 
-con el proposito de distribuir y racionalizar apropiadamente todo el trabajo de la sociedad. La produci"
-
->[Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin), [El Sistema De Taylor](https://www.marxists.org/archive/lenin/works/1914/mar/13.htm) (1914)
-
-
-
+>[Hans Pruijt](https://scholar.google.nl/citations?user=w1Vk0X4AAAAJ&hl=en), [The Persistance of Taylorism](https://repub.eur.nl/pub/93588/Fight.PDF#page=12) (1996)
 
 <hr />
+
+La cita de arriba da una de las ideas más visuales posibles de como el princípio taylorista continua reproduciendose como un autoreplicante en las "estructuras profundas" de sistemas aparentemente más modernos:
+
+>"Las tareas rutinarias se delegan a una categoría de trabajadores que solo se ocupan del trabajo "en masa" y que deben trabajar según reglas estrictamente especificadas. Un grupo élite maneja los casos más complicados e incidentales. El trabajo de este grupo élite se analiza constantemente para ver si partes pueden formalizarse y transferirse al grupo de trabajo en masa"
+
+
+Aquí parece resonar a lo lejos la declaración del viejo <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> *"Cualquiera que sea la oposición y de quien quiera que venga cualesquiera que sean su forma y su importancia, todo dispositivo que permita economizar trabajo acabará imponiéndose; ése es un hecho histórico"* y la naturaleza de un proceso de remplazo imparable que hoy parece estar llegando a sus últimas consecuencias con la irrupción de la *Inteligencia Artificial*.
+
+
+
+
+
+
+
+
+
+
 

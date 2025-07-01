@@ -68,7 +68,7 @@ Entonces ocurrió el milagro o se lo hizo ocurrir. Despues de decadas de provoca
 En una furiosa carta al Atlantic Monthly (Enero 1998) Walter Greene, de Hatboro, Pennsilvania, protestó contra el "mito de las escuelas fallidas" en estos terminos:
 
 
->"Resulta que tenemos la fuerza laboral más productiva del mundo, la economía más grande, el mayor estandar de vida material, más premios Nobel que el resto del mundo juntos y el mejor sistema de educación superior, lamás alta tecnología medica y la milicia más poderosa. Estas cosas no podrían haberse logrado con un sistema educativo de segundo orden"
+>"Resulta que tenemos la fuerza laboral más productiva del mundo, la economía más grande, el mayor estandar de vida material, más premios Nobel que el resto del mundo juntos y el mejor sistema de educación superior, lam ás alta tecnología medica y la milicia más poderosa. Estas cosas no podrían haberse logrado con un sistema educativo de segundo orden"
 
 
 Contrariamente, la sorprendente verdad es que dichos logros no podrían haberse desarrollado hasta ese punto sin un sistema educativo de segundo orden. Pero aquí esta la cruz de una paradoja insoportable crada por una escolarización cientificamente eficiente.

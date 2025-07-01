@@ -337,7 +337,7 @@ flex-direction: column;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+
   border: solid;
   border: 3px solid black;
 }
@@ -551,10 +551,11 @@ html[data-theme='dark'] nav a {
 }
 
 html[data-theme='dark'] .fadeout {
-  background: -webkit-linear-gradient(white, #232f1e);
+  background: -webkit-linear-gradient(antiquewhite, #232f1e);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 
 html[data-theme='dark'] a:hover {
   color: #90f6fa;
@@ -636,167 +637,231 @@ html[data-theme='dark'] .navbar__title {
 
 /* same going for light mode  */
 
+/* Light mode with warm, pastel salmon tones and colorful accents */
 html[data-theme='light'] .navbar__title::after {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Warm, muted reddish-brown for subtle contrast */
 }
 
-
-
 html[data-theme='light'] article {
-  background-color: #e3faf0;
-  color: black;    
-  border-color: #003422;
+  background-color: #fff5f2; /* Very light salmon/pastel background */
+  color: #3a2f2c; /* Deep warm brown for text readability */
+  border-color: #6b4e3d; /* Muted terracotta for borders */
   border-width: 4px;
-  font-weight:400;
+  font-weight: 400;
 }
 
 html[data-theme='light'] h2, h1 {
   font-weight: bold;
-  color:  #31412b;
+  color: #4a2f2a; /* Rich reddish-brown for headings */
 }
 
 html[data-theme='light'] h3 {
-  color:  #31412b;
+  color: #4a2f2a;
   margin-left: auto;
   margin-right: auto;
-    font-family: 'Special Elite', cursive;
+  font-family: 'Merriweather', serif;
   width: 45%;
   margin-top: 1.5em;
 }
 
 html[data-theme='light'] .table-of-contents__link--active {
-  color: #3fa8a3  !important;
+  color: #7a5c4a !important; /* Warm taupe for active TOC links */
 }
 
-
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a {
-  
-  color:  #31412b;
+  color: #4a2f2a; /* Consistent heading color for sidebar links */
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a:hover {
-
-  color:  rgba(25, 151, 151, 0.76) !important;
+  color: #d76a5b !important; /* Soft coral for hover effect */
 }
 
 html[data-theme='light'] a {
-  color: rgba(20, 90, 90, 0.699);
+  color: #b84e3f; /* Muted coral for links */
   font-weight: 500 !important;
 }
 
-
 html[data-theme='light'] b.navbar__title.text--truncate {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Matching reddish-brown for navbar title */
 }
 
-
 html[data-theme='light'] code {
-  background-color: #e3faf0;
+  background-color: #ffece8; /* Lighter salmon for code blocks */
+  padding: 1.5em;
+  border: 4px solid #6b4e3d; /* Terracotta border for consistency */
 }
 
 html[data-theme='light'] details {
-  background-color: #0e1813;
-  color: #00060a;
-  border-color: #00060a;
-  padding: 2.1em;
+  background-color: #fff0ec; /* Slightly lighter salmon for details */
+  color: #3a2f2c; /* Warm brown text */
+  border-color: #6b4e3d; /* Terracotta border */
+  padding: 2.4em;
 }
 
+html[data-theme='light'] details code {
+  background-color: #fff0ec; /* Matching details background */
+}
 
-html[data-theme='light' ] details a {
+html[data-theme='light'] details a {
   text-decoration: none;
 }
 
-html[data-theme='light' ] details a:hover {
+html[data-theme='light'] details a:hover {
   text-decoration: underline;
 }
-
 
 html[data-theme='light'] .trasluz {
   opacity: .3;
 }
 
 html[data-theme='light'] .pdf {
-  color: rgba(20, 90, 90, 0.699);
+  color: #b84e3f; /* Coral for PDF links */
   font-size: 60%;
   font-weight: bold;
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > div {
-  color: #f7f7f0;;
+  color: #fff5f2; /* Light salmon to blend with background */
 }
 
-html[data-theme='light'] .table-of-contents  {
-  background-color: #e6fdf3;
+html[data-theme='light'] .table-of-contents {
+  background-color: #fff5f2; /* Matching article background */
   opacity: .9;
 }
 
-html[data-theme='light'] .lnk a {
-  color:  #3b553ee5;
-  font-weight: bold  !important;
+html[data-theme='light'] .lnk {
+  color: #6b4e3d; /* Terracotta for bold links */
+  font-weight: bold !important;
 }
 
-html[data-theme='light'] .table-of-contents  a  {
-
-  color: #12312c;
-
+html[data-theme='light'] .table-of-contents a {
+  color: #5c4036; /* Slightly darker brown for TOC links */
 }
 
-html[data-theme='light'] .table-of-contents  a:hover  {
-  
-  color:  #334e3b;
-
+html[data-theme='light'] .table-of-contents a:hover {
+  color: #d76a5b; /* Coral for hover */
 }
 
 html[data-theme='light'] .cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module p {
-  color:  #1a1a1a;
-} 
-
-
-html[data-theme='light'] blockquote {
-
-  color: #01090f;
+  color: #3a2f2c; /* Warm brown for card text */
 }
 
+html[data-theme='light'] blockquote {
+  color: #4a2f2a; /* Reddish-brown for quotes */
+}
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
-  background-color: #e6faf1;
-  color:  #00060a;  
-  opacity: .9 ;
+  background-color: #fff0ec; /* Light salmon for sidebar */
+  color: #3a2f2c; /* Warm brown text */
+  opacity: .9;
   border: solid;
-  border-color: black;
+  border-color: #6b4e3d; /* Terracotta border */
   padding: .4em 0 0 1.2em;
-
+  font-family: 'Merriweather', serif;
 }
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav > ul > li > a:hover {
-
-  color:  #334e3b;
-
+  color: #d76a5b; /* Coral for sidebar link hover */
 }
 
-
-html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div
-{
-  background-color: #003422;
-  color: #e7e7e4;
+html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div {
+  background-color: #6b4e3d; /* Terracotta for announcement bar */
+  color: #fff5f2; /* Light salmon text for contrast */
 }
-
 
 html[data-theme='light'] header {
-  background-color: #e6fdf3;
-       
-  opacity: .8;
+  background-color: #fff0ec; /* Light salmon for header */
+  opacity: .9;
   padding: 1.5em;
 }
 
 html[data-theme='light'] footer {
-  background-color: #e6fdf3;
-  color:  black;   
+  background-color: #fff0ec; /* Light salmon for footer */
+  color: #3a2f2c; /* Warm brown text */
   opacity: .9;
-
   padding: 1.5em;
-
 }
+
+html[data-theme='light'] #__docusaurus > nav > div.navbar__inner {
+  color: #4a2f2a; /* Reddish-brown for navbar content */
+}
+
+html[data-theme='light'] article a {
+  font-weight: 700;
+}
+
+html[data-theme='light'] article a:hover {
+  opacity: .9;
+}
+
+html[data-theme='light'] .pagination-nav__link {
+  color: #b84e3f; /* Coral for pagination links */
+  font-weight: 500;
+}
+
+html[data-theme='light'] aside .menu li {
+  background-color: #fff0ec; /* Light salmon for menu items */
+}
+
+html[data-theme='light'] .navbar {
+  background-color: #fff5f2; /* Matching article background */
+}
+
+html[data-theme='light'] .navbar a {
+  color: #4a2f2a; /* Reddish-brown for navbar links */
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .navbar a:hover {
+  opacity: .8;
+  color: #d76a5b; /* Coral for hover */
+}
+
+html[data-theme='light'] aside .menu {
+  opacity: .9;
+}
+
+html[data-theme='light'] .pagination-nav__link {
+  background-color: #fff0ec; /* Light salmon for pagination */
+  opacity: .9;
+  color: #7a5c4a !important; /* Taupe for link text */
+}
+
+html[data-theme='light'] div.col.col--3 {
+  background-color: #fff0ec; /* Light salmon for sidebar column */
+  opacity: .9;
+}
+
+html[data-theme='light'] div.col.col--3 a:hover {
+  opacity: .7;
+}
+
+html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > h1 {
+  color: #4a2f2a; /* Reddish-brown for main heading */
+}
+
+html[data-theme='light'] .menu__link {
+  color: #5c4036; /* Darker brown for menu links */
+  font-weight: bold !important;
+}
+
+html[data-theme='light'] .menu__link:hover {
+  color: #8b6a4e; /* Warm taupe for hover */
+  opacity: .9;
+}
+
+html[data-theme='light'] .menu__link--active {
+  color: #8b6a4e; /* Warm taupe for active menu links */
+}
+
+html[data-theme='light'] article.margin-bottom--xl:nth-child(1) > header:nth-child(1) > h2:nth-child(1) a {
+  color: #4a2f2a; /* Reddish-brown for specific article links */
+}
+
+html[data-theme='light'] a.sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
+  color: #4a2f2a; /* Reddish-brown for active sidebar links */
+}
+
 
 /*
 html[data-theme='light'] .fadeout {
@@ -1067,7 +1132,7 @@ blockquote {
 
 .navbar .navbar__items {
     font-family: 'Special Elite', cursive;
-    text-transform: uppercase;
+    font-style: italic;
 }
 
 
@@ -1592,9 +1657,7 @@ html[data-theme='dark'] code {
 }
 
 
-html[data-theme='light'] .navbar__title::after {
-  color:  #1a1a1a;
-}
+
 
 html[data-theme='dark'] .navbar__title::after {
   color:  #f77a06;
@@ -1604,173 +1667,160 @@ html[data-theme='dark'] .navbar__title {
   color:  #f77a06;
 }
 
-/* same going for light mode  */
+
+
+/*    Light Mode    */
+
 
 html[data-theme='light'] .navbar__title::after {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Warm, muted reddish-brown for subtle contrast */
 }
 
-
-
 html[data-theme='light'] article {
-  background-color: rgb(235, 235, 235);
-  color: black;    
-  border-color: #003422;
+  background-color: #fff5f2; /* Very light salmon/pastel background */
+  color: #3a2f2c; /* Deep warm brown for text readability */
+  border-color: #6b4e3d; /* Muted terracotta for borders */
   border-width: 4px;
-  font-weight:400;
+  font-weight: 400;
 }
 
 html[data-theme='light'] h2, h1 {
   font-weight: bold;
-  color:  black;
-  font-family: 'Special Elite', cursive;
+  color: #4a2f2a; /* Rich reddish-brown for headings */
 }
 
 html[data-theme='light'] h3 {
-  color:  black;
+  color: #4a2f2a;
   margin-left: auto;
   margin-right: auto;
-    font-family: 'Special Elite', cursive;
+  font-family: 'Merriweather', serif;
   width: 45%;
   margin-top: 1.5em;
 }
 
 html[data-theme='light'] .table-of-contents__link--active {
-  color: #3fa8a3  !important;
+  color: #7a5c4a !important; /* Warm taupe for active TOC links */
 }
 
-
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a {
-  
-  color:  #31412b;
+  color: #4a2f2a; /* Consistent heading color for sidebar links */
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li > a:hover {
-
-  color:  rgba(25, 151, 151, 0.76) !important;
+  color: #d76a5b !important; /* Soft coral for hover effect */
 }
 
 html[data-theme='light'] a {
-  color: rgba(20, 90, 90, 0.699);
+  color: #978158; /* Muted coral for links */
   font-weight: 500 !important;
 }
 
-
 html[data-theme='light'] b.navbar__title.text--truncate {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Matching reddish-brown for navbar title */
 }
 
-
 html[data-theme='light'] code {
-  background-color: rgb(235, 235, 235);
+  background-color: #fff2eb;; /* Lighter salmon for code blocks */
+  padding: 1.5em;
+  border: 2px solid #6b4e3d; /* Terracotta border for consistency */
 }
 
 html[data-theme='light'] details {
-  background-color: rgb(235, 235, 235);
-  color: #00060a;
-  border-color: #00060a;
+  background-color: #ece0d8;; /* Slightly lighter salmon for details */
+  color: #3a2f2c; /* Warm brown text */
+  border-color: #6b4e3d; /* Terracotta border */
   padding: 2.4em;
 }
 
+html[data-theme='light'] details code {
+  background-color: #fff0ec; /* Matching details background */
+}
 
-html[data-theme='light' ] details a {
+html[data-theme='light'] details a {
   text-decoration: none;
 }
 
-html[data-theme='light' ] details a:hover {
+html[data-theme='light'] details a:hover {
   text-decoration: underline;
 }
 
+html[data-theme='light'] .trasluz {
+  opacity: .3;
+}
 
 html[data-theme='light'] .pdf {
-  color: rgba(20, 90, 90, 0.699);
+  color: #b84e3f; /* Coral for PDF links */
   font-size: 60%;
   font-weight: bold;
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > div {
-  color: #f7f7f0;;
+  color: #fff5f2; /* Light salmon to blend with background */
 }
 
-html[data-theme='light'] .table-of-contents  {
-  background-color: rgb(235, 235, 235);
+html[data-theme='light'] .table-of-contents {
+  background-color: #fff5f2; /* Matching article background */
+  opacity: .9;
 }
 
 html[data-theme='light'] .lnk {
-  color:  #31412be5;
-  font-weight: bold  !important;
+  color: #6b4e3d; /* Terracotta for bold links */
+  font-weight: bold !important;
 }
 
-html[data-theme='light'] .table-of-contents  a  {
-
-  color: #12312c;
-
+html[data-theme='light'] .table-of-contents a {
+  color: #5c4036; /* Slightly darker brown for TOC links */
 }
 
-html[data-theme='light'] .table-of-contents  a:hover  {
-  
-  color:  #334e3b;
-
+html[data-theme='light'] .table-of-contents a:hover {
+  color: #d76a5b; /* Coral for hover */
 }
 
 html[data-theme='light'] .cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module p {
-  color:  #1a1a1a;
-} 
-
-
-html[data-theme='light'] blockquote {
-
-  color: #01090f;
+  color: #3a2f2c; /* Warm brown for card text */
 }
 
+html[data-theme='light'] blockquote {
+  color: #4a2f2a; /* Reddish-brown for quotes */
+}
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
-  background-color: rgb(235, 235, 235);
-  color:  #00060a;  
+  background-color: #fff0ec; /* Light salmon for sidebar */
+  color: #3a2f2c; /* Warm brown text */
+  opacity: .9;
   border: solid;
-  border-color: black;
+  border-color: #6b4e3d; /* Terracotta border */
   padding: .4em 0 0 1.2em;
-  opacity: 1 !important ;
+  font-family: 'Merriweather', serif;
 }
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav > ul > li > a:hover {
-  color:  #334e3b;
+  color: #d76a5b; /* Coral for sidebar link hover */
 }
 
-
-html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div
-{
-  background-color: rgb(235, 235, 235);
-  color: #e7e7e4;
+html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module > div {
+  background-color: #6b4e3d; /* Terracotta for announcement bar */
+  color: #fff5f2; /* Light salmon text for contrast */
 }
-
 
 html[data-theme='light'] header {
-  background-color: rgb(235, 235, 235);
+  background-color: #fff0ec; /* Light salmon for header */
+  opacity: .9;
   padding: 1.5em;
 }
 
 html[data-theme='light'] footer {
-  background-color: rgb(235, 235, 235);
-  color:  black;   
+  background-color: #fff0ec; /* Light salmon for footer */
+  color: #3a2f2c; /* Warm brown text */
+  opacity: .9;
   padding: 1.5em;
 }
 
-
-html[data-theme='light'] .fadeout {
-  background: -webkit-linear-gradient(#111a00, antiquewhite);
-
-  -webkit-text-fill-color: transparent;
-}
-
-
 html[data-theme='light'] #__docusaurus > nav > div.navbar__inner {
-  color: #0e1813;
-  background-color: rgb(235, 235, 235);
+  color: #4a2f2a; /* Reddish-brown for navbar content */
 }
 
-
-html[data-theme='light'] article  a { 
+html[data-theme='light'] article a {
   font-weight: 700;
 }
 
@@ -1778,74 +1828,81 @@ html[data-theme='light'] article a:hover {
   opacity: .9;
 }
 
-html[data-theme='light'] .pagination-nav__link  {
-  color: #084044e7;
+html[data-theme='light'] .pagination-nav__link {
+  color: #b84e3f; /* Coral for pagination links */
   font-weight: 500;
 }
 
-
 html[data-theme='light'] aside .menu li {
-  background-color: rgb(235, 235, 235);  
+  background-color: #fff0ec; /* Light salmon for menu items */
 }
 
-
 html[data-theme='light'] .navbar {
-  background-color: rgb(235, 235, 235);
+  background-color: #fff5f2; /* Matching article background */
+  opacity: .9;
 }
 
 html[data-theme='light'] .navbar a {
-  color:  #1a1a1a;
+  color: #4a2f2a; /* Reddish-brown for navbar links */
   font-weight: bold !important;
 }
 
 html[data-theme='light'] .navbar a:hover {
-  opacity: .8 ; 
-  color:  #1a1a1a;
+  opacity: .8;
+  color: #d76a5b; /* Coral for hover */
 }
 
-html[data-theme='light'] aside .menu li {
-  background-color: rgb(235, 235, 235);
-  font-size: 100%;
+html[data-theme='light'] aside .menu {
+  opacity: .9;
 }
-
-
-
 
 html[data-theme='light'] .pagination-nav__link {
-  background-color: rgb(235, 235, 235);
-  color:rgb(34, 78, 14);
+  background-color: #fff0ec; /* Light salmon for pagination */
+  opacity: .9;
+  color: #7a5c4a !important; /* Taupe for link text */
 }
 
 html[data-theme='light'] div.col.col--3 {
-  background-color: rgb(235, 235, 235);
-
+  background-color: #fff0ec; /* Light salmon for sidebar column */
+  opacity: .9;
 }
-
 
 html[data-theme='light'] div.col.col--3 a:hover {
   opacity: .7;
 }
 
-
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > h1 {
-  color:gb(26, 26, 26);
-  font-family: 'Special Elite', cursive;
+  color: #4a2f2a; /* Reddish-brown for main heading */
 }
 
 html[data-theme='light'] .menu__link {
-  color: #122d31;
+  color: #5c4036; /* Darker brown for menu links */
   font-weight: bold !important;
-
 }
 
 html[data-theme='light'] .menu__link:hover {
-  color:rgb(34, 78, 14);
-    opacity: .8;
+  color: #8b6a4e; /* Warm taupe for hover */
+  opacity: .9;
 }
 
 html[data-theme='light'] .menu__link--active {
-  color:rgb(34, 78, 14);
+  color: #8b6a4e; /* Warm taupe for active menu links */
 }
+
+html[data-theme='light'] article.margin-bottom--xl:nth-child(1) > header:nth-child(1) > h2:nth-child(1) a {
+  color: #4a2f2a; /* Reddish-brown for specific article links */
+}
+
+html[data-theme='light'] a.sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
+  color: #4a2f2a; /* Reddish-brown for active sidebar links */
+}
+
+/* End of light mode   */
+
+
+
+
+
 .magentaDom{
   color: #cc33ff !important;
   font-weight: 100 !important;
@@ -1899,9 +1956,9 @@ a .naranja2 {
 
 
 .navbar__title::after {
-  content: "Más allá de los claustros...";
+  content: "Una genealogía y una actualiación";
   display: block;
-  font-size: 16px; 
+  font-size: 18px; 
   line-height: 1.2;
   z-index: 2 !important;
   text-align: center;
@@ -1913,3 +1970,5 @@ a .naranja2 {
 #__docusaurus_skipToContent_fallback > div > div > aside > nav > div:nth-child(2) > h3 {
   display: none;
 }
+
+

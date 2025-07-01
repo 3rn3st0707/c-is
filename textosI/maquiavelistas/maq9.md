@@ -25,7 +25,7 @@ Cuales son esas fuerzas que determinan el equilibrio social, que hacen la socied
 
 3. Los factores economicos - que Pareto denomina "intereses" - también tiene un rol preponderante, tal como reconocen la mayoria de los sociologos e historiadores modernos. En <a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Mente y Sociedad</a> (1916) sin embargo, Pareto no se ocupa demasiado de ellos.
 
-4. <a href="/textosI/maquiavelistas/maq8" class="lnk">Las derivaciones</a>, también tienen una cierta influenciaen el equilibrio social, pero Pareto, como hemos visto, creé que esta es menor comparado con otros factores. Estas <a href="/textosI/maquiavelistas/maq5" class="lnk">creencias no-lógicas</a>, mitos, formulas, etc, son principalmente notables como expresiones de residuos e intereses y por su capacidad indirecta de reforzar los residuos o alterar el patron de la circulación de las elites.
+4. <a href="/textosI/maquiavelistas/maq8" class="lnk">Las derivaciones</a>, también tienen una cierta influenciaen el equilibrio social, pero Pareto, como hemos visto, creé que esta es menor comparado con otros factores. Estas <a href="/textosI/maquiavelistas/maq7" class="lnk">creencias no-lógicas</a>, mitos, formulas, etc, son principalmente notables como expresiones de residuos e intereses y por su capacidad indirecta de reforzar los residuos o alterar el patron de la circulación de las elites.
 
 
 
@@ -59,7 +59,7 @@ Dentro de la élite debemos distinguir una «elite gobernante» de una «elite n
 
 
 
-El caracter de una sociedad, sostiene <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a>, es, por sobre todo, el caracter de su Elite, sus lógros son los logros de su Elite, su historia correctamente interpretada es la historia de su Elite, las predicciones exitosas sobre su futuro se basan en evidencia tomada de del estudio de la [composición y estructura de su Elite](https://archive.org/details/BurnhamJamesTheMachiavellians/page/n99/mode/2up). Las conclusines de Pareto aquí son las mismas que las de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941) en su más estecho pero similar concepto de <a href="/textosI/maquiavelistas/maq2" class="lnk">Clase Gobernante</a>.
+El caracter de una sociedad, sostiene <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a>, es, por sobre todo, el caracter de su Elite, sus lógros son los logros de su Elite, su historia correctamente interpretada es la historia de su Elite, las predicciones exitosas sobre su futuro se basan en evidencia tomada de del estudio de la <span class="lnk">[composición y estructura de su Elite](/textosI/maquiavelistas/maq3)</span>. Las conclusines de Pareto aquí son las mismas que las de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941) en su más estecho pero similar concepto de <a href="/textosI/maquiavelistas/maq2" class="lnk">Clase Gobernante</a>.
 
 
 

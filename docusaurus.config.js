@@ -6,20 +6,20 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   
-  title: 'La Nueva Diletancia',
-  tagline: 'La Guía',
+  title: 'Cientificismo e Ingenieria Social',
+  tagline: 'Inicio',
   favicon: '/img/bookshelf.jpg',
 
   // Set the production url of your site here
-  url: 'https://guia-diletante.netlify.app',
+  url: 'https://xxx.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'La Nueva Diletancia', // Usually your GitHub org/user name.
-  projectName: 'La Nueva Diletancia', // Usually your repo name.
+  organizationName: 'Cientificismo e Ingenieria Social', // Usually your GitHub org/user name.
+  projectName: 'Cientificismo e Ingenieria Social', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -125,7 +125,7 @@ const config = {
       // Replace with your project's social card
       image: '/img/bookshelf.jpg',
       navbar: {
-        title: 'La Nueva Diletancia',
+        title: 'Cientificismo e Ingenieria Social',
 
         items: [
           {

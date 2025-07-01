@@ -4,6 +4,12 @@ slug: progresismo
 title: Progresismo como Ideologia de la Elite Gerencial
 ---
 
+<hr />
+Capítulo de [Leviathan and its enemies](https://archive.org/details/LeviathanAndItsEnemiesSamuelT.Francis2016) (1995), de [Samuel T. Francis](https://americasfuture.org/the-castaway).
+
+<hr />
+
+
 La historia de los movimientos políticos y las ideas generalmente denominadas «Liberalismo» en EEUU y "Progresismo" en el mundo hispanoparlante, en los
 del siglo XIX y XX se asocia (al menos por parte de sus exponentes y defensores) con el
 de las libertades civiles y la compasión por los oprimidos y los desfavorecidos. 
@@ -96,7 +102,10 @@ En el [liberalismo clásico](https://es.wikipedia.org/wiki/Liberalismo_cl%C3%A1s
 Es central a esta nueva formulación intelectual la firme creencia de que, en gran medida, el hombre 
 podía crear y rehacer su propio mundo... Tanto las nacientes ciencias sociales como el nuevo evangelio social prometían que básicamente los hombres eran más parecidos que diferentes y que no eran malos por herencia, sino que, en todo caso, estaban inclinados por su propia naturaleza a ser buenos... Las grandes desigualdades entre ellos no eran naturales, y desde el punto de vista de la paz social y el <a href="https://en.wikipedia.org/wiki/Welfare_capitalism" target="_blank" rel="noopener noreferrer">Welfare</a> eran decididamente malas.
 
-La visión optimista de la naturaleza humana que caracteriza a la doctrina progresista contiene importantes implicaciones para el funcionamiento del progresismo como ideología de la élite empresarial. El optimismo progresista de la condición humana no se basan en la naturaleza del hombre, sino que se derivan de su entorno social, económico y político. Por lo tanto, estos males no son necesarios o inevitables, sino que pueden eliminarse o aliviarse cambiando el entorno. Si se logra remover esos males la guerra, el crimen, la pobreza, la desigualdad, la corrupción, la enfermedad, el hambre y la ignorancia podrian reducirse e incluso abolirse. La visión optimista de la condición humana
+La visión optimista de la naturaleza humana que caracteriza a la doctrina progresista contiene importantes implicaciones para el funcionamiento del progresismo como ideología de la élite empresarial. El optimismo progresista de la condición humana no se basan en la naturaleza del hombre, sino que se derivan de su entorno social, económico y político. Por lo tanto, estos males no son necesarios o inevitables, sino que pueden eliminarse o aliviarse cambiando el entorno. 
+
+
+Si se logra remover esos males la guerra, el crimen, la pobreza, la desigualdad, la corrupción, la enfermedad, el hambre y la ignorancia podrian reducirse e incluso abolirse. La visión optimista de la condición humana
 expresada en el pensamiento progresista se basa en un environmentalismo que a su vez es el fundamento teórico del [meliorismo](https://es.wikipedia.org/wiki/Meliorismo) y del utopismo progresista. 
 
 
@@ -152,7 +161,7 @@ de una sociedad utópica, pero en general la situaban tan lejos en el futuro o c
 
 La nueva ciencia, influida por la teoría de la probabilidad, los cuestionamientos a la cosmología newtoniana, un *«darwinismo reformista»* y una psicología irracionalista, rechazó la naturaleza determinada del universo y elaboró una visión de la naturaleza que permitía una reconstrucción humana mucho más inmediata de la sociedad, del hombre y de la naturaleza. 
 
-[Walter Lippmann](https://es.wikipedia.org/wiki/Walter_Lippmann), exponente popularizador de esta nueva visión del mundo, destacó el papel de la ciencia moderna en la reforma del entorno social en su libro de 1914 //Drift and Mastery, y esta creencia se convirtió en un supuesto básico del progresismo.
+[Walter Lippmann](https://es.wikipedia.org/wiki/Walter_Lippmann), exponente popularizador de esta nueva visión del mundo, destacó el papel de la ciencia moderna en la reforma del entorno social en su libro de 1914 [Drift and Mastery](https://archive.org/details/driftmasteryatte00lipp), y esta creencia se convirtió en un supuesto básico del progresismo.
 La creencia en un universo abierto, en el que el hombre no estaba encadenado al pasado ni viajaba en una escalera mecánica hacia el futuro, era fundamental. También era fundamental la creencia en la
 doctrina del progreso posible, basada en el doble supuesto de que el hombre era más bueno que malo
 y que, gracias a su intelecto y sentido moral, tenía el poder de cambiar su entorno.
@@ -167,8 +176,10 @@ en las críticas liberales a la discriminación racial, sexual y de clase, y en 
 
 
 
-//Roscoe Pound y [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) incorporaron las «[environmentalist theories](https://law.adelaide.edu.au/our-research/legal-theory-legal-history-and-critical-perspectives-on-law/environmental-theory)» a su escuela
+[Roscoe Pound](https://en.wikipedia.org/wiki/Roscoe_Pound) y [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) incorporaron las «[environmentalist theories](https://law.adelaide.edu.au/our-research/legal-theory-legal-history-and-critical-perspectives-on-law/environmental-theory)» a su escuela
 de //«jurisprudencia sociológica» a principios del siglo XX, y el «environmentalismo» también influyó en el movimiento del Evangelio Social y en la secularización de la sociedad.
+
+
 
 
 No cabe duda de que el progresismo no siempre fue un conjunto de ideas rigurosas o coherentes.
@@ -176,7 +187,9 @@ no todos sus exponentes percibían, comprendían o aceptaban todos sus principio
 de intensidad moral y sofisticación intelectual, lo que le dio el atractivo que ha ejercido históricamente y le ha permitido funcionar como ideología de la élite gerencial en ascenso.
 
 
-El «environmentalismo» de la teoría progresista también justificaba el //hedonismo y el cosmopolitismo que caracterizan el humanismo gerencial y reflejan el funcionamiento del <span class="lnk">[régimen gerencial blando](/textosII/totaldemo)</span>. El entorno que los liberales del siglo XX percibían como fuente del mal social era precisamente el propio régimen burgués y sus instituciones y valores. Un elemento fundamental de la ideología y del conjunto de valores del régimen burgués era la ética por la que se inculcaban las virtudes del trabajo, el ahorro, el deber y el aplazamiento de la gratificación.
+El «environmentalismo» de la teoría progresista también justificaba el [hedonismo](https://es.wikipedia.org/wiki/Hedonismo) y el cosmopolitismo que caracterizan el humanismo gerencial y reflejan el funcionamiento del <span class="lnk">[régimen gerencial blando](/textosII/totaldemo)</span>. El entorno que los liberales del siglo XX percibían como fuente del mal social era precisamente el propio régimen burgués y sus instituciones y valores. Un elemento fundamental de la ideología y del conjunto de valores del régimen burgués era la ética por la que se inculcaban las virtudes del trabajo, el ahorro, el deber y el aplazamiento de la gratificación.
+
+
 
 
 
@@ -185,7 +198,7 @@ Esta ética, institucionalizada en los códigos económicos y sociales burgueses
 
 
 
-La crítica y el rechazo progresista de la ética burguesa y su institucionalización en el entorno social y cultural como //«filisteísmo» estaba estrechamente relacionada con la
+La crítica y el rechazo progresista de la ética burguesa y su institucionalización en el entorno social y cultural como «[filisteísmo](https://es.wikipedia.org/wiki/Filiste%C3%ADsmo)» estaba estrechamente relacionada con la
 racionalización y popularización de su antítesis: la articulación de un relativismo moral y cultural que implicitamente el rechace todas las normas por las que se pudiese evaluar el comportamiento moral, social, político y económico, y que permitía el desarrollo de una ética hedonista.
 
 
@@ -195,7 +208,7 @@ hedonista en lugar de la ética burguesa.
 
 
 
-Las ideas environmentalistas desacreditaron los valores morales absolutos, que se percibían como meras adaptaciones a necesidades "de entorno"" particulares. Este fue especialmente el caso de las ideas de //Franz Boas, que desarrolló *«una antropología que cortó el suelo de todas las ideas absolutas, en particular del racismo»* y que sostenía que la antropología *«enseña mejor que ninguna otra ciencia la relatividad de los valores de la civilización»*.
+Las ideas environmentalistas desacreditaron los valores morales absolutos, que se percibían como meras adaptaciones a necesidades "de entorno"" particulares. Este fue especialmente el caso de las ideas de [Franz Boas](https://es.wikipedia.org/wiki/Franz_Boas), que desarrolló *«una antropología que cortó el suelo de todas las ideas absolutas, en particular del racismo»* y que sostenía que la antropología *«enseña mejor que ninguna otra ciencia la relatividad de los valores de la civilización»*.
 
 
 
@@ -242,14 +255,19 @@ La ideología progresista generalmente a percivido la barreras a la realización
 
 
 
-Pese a que las premisas de la ideología cosmopolita estan implicitas en el relativismo y environmentalismo del pensamiento progresista, y pese a que los teóricos liberales dibujaron dichas premisas en la forma de igualitarismo e internacionalismo explicito, la mayor parte de los lideres políticos progresistas no emfatizaron las tematicas cosmopolitas hasta los 1960s con la oposición progresista y de la //New Left a la discriminación racial, sexual y económica. 
+Pese a que las premisas de la ideología cosmopolita estan implicitas en el relativismo y environmentalismo del pensamiento progresista, y pese a que los teóricos liberales dibujaron dichas premisas en la forma de igualitarismo e internacionalismo explicito, la mayor parte de los lideres políticos progresistas no emfatizaron las tematicas cosmopolitas hasta los 1960s con la oposición progresista y de la [New Left](https://en.wikipedia.org/wiki/New_Left) a la discriminación racial, sexual y económica. 
+
+
 
 
 El énfasis en la ideología cosmopolita y su importación como políticas y discurso político en ese época coincidio inovaciones tecnologicas y organizacionales que hicieron posible un dramatico engrandecimiento en tamaño y escala de los medios masivos de comunicación, que son las fuentes principales de popularización de las ideologías cosmopolitas debido a su necesidad de homegeneizar audiencias masivas susceptibles a su mensaje uniforme.
 
 
 
-Antes de los 1960s las fuerzas políticas y lideres progresistas retenian compromisos explicitos y públicos con el nacionalismo (como el “New Nationalism”// de Theodore Roosevelt o las temáticas chauvinistas e incluso racistas de la propaganda progresista durante la Segunda Guerra Mundial) y al menos toleraba la discriminación racial. Los lideres intelectuales progresistas originales, los del //American Progressive Movement (años) a menudo habian sido educados en o influidos por el pensamiento gerencial de la Alemania Imperial y reflejaban las temáticas extremadamente nacionalistas, raciales y estatistas que dicho pensamiento expresaba.
+Antes de los 1960s las fuerzas políticas y lideres progresistas retenian compromisos explicitos y públicos con el nacionalismo (como el “[New Nationalism](https://en.wikipedia.org/wiki/New_Nationalism_(Theodore_Roosevelt))” de Theodore Roosevelt o las temáticas chauvinistas e incluso racistas de la propaganda progresista durante la Segunda Guerra Mundial) y al menos toleraba la discriminación racial. Los lideres intelectuales progresistas originales, los del [American Progressive Movement](https://es.wikipedia.org/wiki/Era_progresista) a menudo habian sido educados en o influidos por el pensamiento gerencial de la Alemania Imperial y reflejaban las temáticas extremadamente nacionalistas, raciales y estatistas que dicho pensamiento expresaba.
+
+
+
 
 
 

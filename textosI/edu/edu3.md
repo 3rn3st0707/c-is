@@ -119,7 +119,7 @@ Como cada una encontró rápidamente su análoga en la escolarización científi
 suficiente para mantener el ritmo con la cadena. La conexión de todo ello con el procedimiento escolar es
 evidente.
 
-«*En el pasado *-escribió Taylor-, *el hombre era lo primero. En el futuro el sistema tiene que ser lo
+«En el pasado -escribió Taylor-, *el hombre era lo primero. En el futuro el sistema tiene que ser lo
 primero*». No era suficiente tener movimientos físicos estandarizados: el trabajador estandarizado también
 «*tiene que ser feliz en su trabajo*», por tanto sus procesos de pensamiento tienen que ser estandarizados. 
 

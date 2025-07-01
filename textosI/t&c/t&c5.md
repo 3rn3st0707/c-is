@@ -243,7 +243,7 @@ Gramsci prosigue en este sentido y pasando de las consideraciones sobre el obrer
 
 
 Cosa notable, <a href="https://es.wikipedia.org/wiki/Henry_Ford" target="_blank">Henry Ford</a> responde prácticamente punto por punto a
-las preguntas que <a href="https://es.wikipedia.org/wiki/Antonio_Gramsci" target="_blank">Gramsci</a> planteaba desde la carcel. Para explicar su políticade «salarios altos», declara sin rodeos:
+las preguntas que <a href="https://es.wikipedia.org/wiki/Antonio_Gramsci" target="_blank">Gramsci</a> planteaba desde la carcel. Para explicar su política de «salarios altos», declara sin rodeos:
 
 >«Pagando mal a los hombres, preparamos una generación de niños subalimentados y subdesarrollados tanto física como moralmente, tendremos una generación de obreros débiles de cuerpo y de espirítu. que por esa razón se mostrarán ineficaces cuando entren en la industria. En definitiva, la industria pagara la cuenta.»
 
