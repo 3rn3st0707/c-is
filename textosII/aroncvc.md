@@ -88,11 +88,13 @@ que la que dedicó al combate o a la reforma del ejército prusiano después de
 la [Batalla de Jena](https://es.wikipedia.org/wiki/Batalla_de_Jena) (1806) y de su retorno de la cautividad.
 
 
-Escribió en varias etapas: lo que él quería era una teoría de la guerra, tan instructiva para las generaciones futuras como para las contemporáneas. El "*Ktema
-eis aei*" de Tucídides, el monumento edificado para siempre, también ha sido su sueño. De esta ambición se desprende la
+Escribió en varias etapas: lo que él quería era una teoría de la guerra, tan instructiva para las generaciones futuras como para las contemporáneas. El "*[Ktema eis aei](https://www.merriam-webster.com/dictionary/ktema%20es%20aei)*" de [Tucídides](https://es.wikipedia.org/wiki/Tuc%C3%ADdides), el monumento edificado para siempre, también ha sido su sueño. De esta ambición se desprende la
 actitud común en el historiador griego y
 el estratega prusiano: el desapego, la eliminación de toda emoción aparente, el
 esfuerzo hacia la total objetividad. 
+
+
+
 
 
 El,

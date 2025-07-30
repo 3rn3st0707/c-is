@@ -13,14 +13,15 @@ sidebar_position: 2
 
 <hr />
 
-La cita de arriba da una de las ideas más visuales posibles de como el princípio taylorista continua reproduciendose como un autoreplicante en las "estructuras profundas" de sistemas aparentemente más modernos:
+La cita de arriba da una de las ideas más visuales posibles de como el princípio taylorista continua reproduciendose como un autoreplicante en las "estructura profunda" de sistemas aparentemente más modernos:
 
 >"Las tareas rutinarias se delegan a una categoría de trabajadores que solo se ocupan del trabajo "en masa" y que deben trabajar según reglas estrictamente especificadas. Un grupo élite maneja los casos más complicados e incidentales. El trabajo de este grupo élite se analiza constantemente para ver si partes pueden formalizarse y transferirse al grupo de trabajo en masa"
 
 
-Aquí parece resonar a lo lejos la declaración del viejo <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> *"Cualquiera que sea la oposición y de quien quiera que venga cualesquiera que sean su forma y su importancia, todo dispositivo que permita economizar trabajo acabará imponiéndose; ése es un hecho histórico"* y la naturaleza de un proceso de remplazo imparable que hoy parece estar llegando a sus últimas consecuencias con la irrupción de la *Inteligencia Artificial*.
+Aquí parece resonar a lo lejos la declaración del viejo <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> *"Cualquiera que sea la oposición y de quien quiera que venga cualesquiera que sean su forma y su importancia, todo dispositivo que permita economizar trabajo acabará imponiéndose; ése es un hecho histórico"* y la naturaleza de un proceso de remplazo imparable que hoy parece estar llegando a sus últimas consecuencias con la irrupción de la *Inteligencia Artificial* a nivel masivo.
 
 
+Ya por entonces muchos entrevieron las nuevas reglas que se imponian y el rumbo que esto marcaba. Uno de ellos fue el pionero de la sociológia, Max Weber (ver racionalización)
 
 
 
