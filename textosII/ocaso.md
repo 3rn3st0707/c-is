@@ -39,7 +39,7 @@ gremio preferían a Heidegger, que daba expresión más cumplida y excelsa a su 
 Heidegger ennobleció la muerte decretada por Spengler sin consideración de personas, y prometió convertir la reflexión sobre ella en un académico secreto de la empresa. 
 
 
-Spengler perdió el mercado: su ensayo sobre *<a href="/textosII/h&t" class="lnk">El hombre y la Técnica</a>* (1931) no pudo sostener ya la competencia de
+Spengler perdió el mercado: su ensayo sobre *[El Hombre y La Técnica](https://archive.org/details/oswald-spengler-el-hombre-y-la-tecnica)* (1931) no pudo sostener ya la competencia de
 las antropologías filosóficas lanzadas simultáneamente. Apenas
 se enteró ya la gente del interes que sucitó en los nacionalsocialistas, de su negativa a la invitaciòn de Hitler y, finalmente, de su muerte. En
 Alemania quedó proscrito por pesimista y por reaccionario — en

@@ -28,6 +28,7 @@ factura para su cobro»"
 
 
 <hr />
+
 <p class="md_footnote_size">
 Texto Original: <i>"An Underground History of
 American Education"</i> (2003) de <a href="https://es.wikipedia.org/wiki/John_Taylor_Gatto" target="_blank" rel="noopener noreferrer">J.T Gatto</a><br />

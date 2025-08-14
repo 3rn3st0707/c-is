@@ -17,7 +17,10 @@ slug: /category/taylorismo-progresismo-e-ingeniería-social
 
 <br />
 
-La idea de que la ciencia misma, en su lucha contra los mitos, esta condenada a volverse mitología ella misma ha sido apliamente explorada, entre otros, por [Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno) y [Max Horkheimer](/) en *[Dialectica de la ilustración](https://comunicacionyteorias1.files.wordpress.com/2011/08/horkheimer-m-y-adorno-t-w-dialectica-de-la-ilustracion.pdf) <span class="pdf">[PDF]</span>* (1947) o por [Oswald Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) en *"El Hombre y La Técnica"*.
+La idea de que la ciencia misma, en su lucha contra los mitos, esta condenada a volverse mitología ella misma ha sido apliamente explorada, entre otros, por por [Oswald Spengler](https://es.wikipedia.org/wiki/Oswald_Spengler) en *[El Hombre y La Técnica](https://archive.org/details/oswald-spengler-el-hombre-y-la-tecnica)* (1931) o [Theodor W. Adorno](https://es.wikipedia.org/wiki/Theodor_Adorno) y [Max Horkheimer](/) en *[Dialectica de la ilustración](https://comunicacionyteorias1.files.wordpress.com/2011/08/horkheimer-m-y-adorno-t-w-dialectica-de-la-ilustracion.pdf) <span class="pdf">[PDF]</span>* (1947).
+
+
+
 
 
 Andrei Sorin es un poco más especifico en *<span class="lnk">[El Mito Mecanicista](/textosI/soft&mind/s&m2)</span>* cuando nos dice que *"<span class="lnk">[Reduccionismo y atomicismo](/textosI/soft&mind/s&m2#reduccionismo-y-atomismo)</span> han sido tan exitosos en aquellos campos en los que sí funciona que la ciencia se identifica ahora universalmente con el <a href="https://es.wikipedia.org/wiki/Mecanicismo" target="_blank" rel="noopener noreferrer">mecanicismo</a>. Para la mayor parte de nosotros «ciencia» simplemente significa el intento de extender el exito del mecanicismo a cada otro aspecto del mundo"*.
@@ -25,7 +28,7 @@ Andrei Sorin es un poco más especifico en *<span class="lnk">[El Mito Mecanicis
 
 Sin embargo no han sido las sesudas dialécticas teóricas las principales responsables de "bastardear" la noción de ciencia sino una práctica de lo más concreta: el <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span> también conocida como <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a> en referencia a su creador <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a>.
 
-La enorme popularidad que generaron estas nuevas prácticas que llevan al extremo la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) logrando multiplicar efectivamente la productividad, hicieron que en la decada de 1910 y 1920 se desatara una mania por aplicar a cualquier y a todos los problemas los *"métodos cientificos"*.
+La enorme popularidad que generaron estas nuevas prácticas que llevan al extremo la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) logrando multiplicar efectivamente la productividad, hicieron que en la decadas de 1910 y 1920 se desatara una mania por aplicar a cualquier y a todos los problemas los *"métodos cientificos"*.
 
 
 El principio era aparentemente simple: Se separaba al artesano, dueño por herencia generacional de los secretos del oficio, de su conocimiento (a menudo espiandolo), esta información era codificada en un departamento central de planeamiento y separada en una multitud de tareas más simples que eran ejecutadas exactamente de la manera indicada, por trabajadores no calificados.
@@ -103,9 +106,71 @@ Retrocedamos una vez más a esa era para aclarar algunos prejuicios.
 
 <br />
 
-Ac VA EL TEXTO BASADO PRINCIPALMENTE EN "cult of efficiency en Education"
 
-y luego 
+Sí bien simpre se ha culpado a <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> tanto de los efectos negativos de la generalización extrema de la división del trabajo como de haber bastardeado la noción de ciencia con su <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span>, la verdad es que a él mismo tal denominación le resultaba pretenciosa e injustificada*, si bien decidió incluir el término en su obra de 1911 *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* para aprovechar la publicidad de un caso en particular que pasaremos a detallar. 
+
+<p class="md_footnote_size">Por ejemplo su obra de 1903 *<a href="https://archive.org/details/shopmanagement01tayl/mode/2up" target="_blank" rel="noopener noreferrer">Shop Management</a>* no incluía dicho termino</p>
+
+En *[Education and the Cult of Efficiency](https://faculty.washington.edu/rsoder/EDUC305/callahancultefficiency.pdf) <span class="pdf">[PDF]</span>* (1962) Raymond Callahan nos explica que: 
+
+>"La ocasión del surgimiento del nuevo sistema se dio en la audiencia ante la Comisión Interestatal de Comercio en septiembre, octubre y noviembre de 1910. Los Ferrocarriles del Noreste habían solicitado a la Comisión un aumento de las tarifas de transporte de mercancías para compensar los mayores salarios concedidos a los trabajadores ferroviarios en la primavera de 1910. Los comerciantes de la zona se opusieron a esta medida porque aumentaría sus costes de transporte. Cada parte estaba representada por equipos de abogados.
+
+>La asociación comercial, liderada por el abogado [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis), argumentó que los ferrocarriles se gestionaban de forma ineficiente y que era posible que obtuvieran mayores beneficios sin aumentar las tarifas. En un momento crucial de la audiencia, Brandeis presentó como testigos a varios ingenieros y directivos industriales que declararon que gracias a la introducción del «Scientific Management»,los ferrocarriles deberían ser capaces de aumentar los salarios y reducir los costes. Algunos de estos hombres afirmaron que ellos habían reducido los costes mientras aumentaban los salarios de 25 a 100 por ciento"
+
+
+La amplia cobertura nacional que tuvieron estas audiencias popularizaron el nombre de Taylor y sus métodos, aunque como bien documenta el libro de Callahan, *"al mismo Taylor la súbita promoción le resultaba exagerada"*, *"el termino Scientific Managemente le sonaba pretencioso"* y que *"sus conotaciones les parecerian academicas a la mayor parte del público"* no obstante esto decidio utilizar el concepto en el titulo de su seminal libro *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* el año siguiente para capitalizar la popularidad del nombre.
+
+
+Pero el termino fue realmente acuñado y popularizado durante las audiencias de 1910 por nada menos que [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) quien poco tiempo despues se convertiria en el asesor principal del presidente [Woodrow Wilson](https://en.wikipedia.org/wiki/Woodrow_Wilson) y algunas decadas despues en Juez de la Suprema Corte de Justicia de los Estados Unidos. 
+
+Recordemos la cita que abre esta sección:
+
+>"Sin embargo el [Jeffersonianismo](https://es.wikipedia.org/wiki/Democracia_de_Jefferson) de [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) no debería exagerarse. En [The Reinterpretation of American History, 1900-1916](https://archive.org/details/KolkoGabrielTheTriumphOfConservatism), Gabriel Kolko advierte que "Brandeis estaba enamorado de las doctrinas del <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span> de <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a>" una "filosofía completamente totalitaria" y no ve diferencia en la práctica entre el [New Nationalism](https://en.wikipedia.org/wiki/New_Nationalism_(Theodore_Roosevelt)) de Theodore Roosevelt y la [New Freedom](https://en.wikipedia.org/wiki/The_New_Freedom) de Wilson y Brandeis"
+
+
+>[Samuel T. Francis](https://americasfuture.org/the-castaway), Nota 180 de de [Leviathan and its enemies](https://archive.org/details/LeviathanAndItsEnemiesSamuelT.Francis2016) (1995) <br />
+>Capítulo <span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span>
+
+
+
+
+
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 La forma más sistematica e institucionalizada de este tipo de cooptación también esta muy ligada al boom de productividad que se dio a principios del siglo XX en torno al <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, <a href="https://es.wikipedia.org/wiki/Fordismo" target="_blank" rel="noopener noreferrer">Fordismo</a>, <a href="https://en.wikipedia.org/wiki/Time_and_motion_study" target="_blank" rel="noopener noreferrer">Time and Motion Study</a>, etc:
 
@@ -158,6 +223,16 @@ siguiente"
 blab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
 
 la etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
+
+
+## Ciencia Vs Racionalización
+
+
+b bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
+
+la etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
+
+
 
 ## ¿El Fin de la "Circulación de las Elites"?
 

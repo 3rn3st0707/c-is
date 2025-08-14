@@ -24,6 +24,12 @@ Aquí parece resonar a lo lejos la declaración del viejo <a href="https://es.wi
 Ya por entonces muchos entrevieron las nuevas reglas que se imponian y el rumbo que esto marcaba. Uno de ellos fue el pionero de la sociológia, Max Weber (ver racionalización)
 
 
+## Epistemologia Vs Reduccionismo
+
+
+
+
+
 
 
 

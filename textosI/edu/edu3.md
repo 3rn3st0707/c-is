@@ -43,8 +43,8 @@ piezas tomadas de otros muchos a los que raramente dio crédito [...] Su genio e
 misionero."
 
 
-Tras la muerte de Taylor en 1915, se formaron los Frederick W. Taylor Cooperators para proyectar su
-movimiento de <a href="https://en.wikipedia.org/wiki/Scientific_management" target="_blank" rel="noopener noreferrer">Scientific Management</a> en el futuro. Frank Copley llamó a Taylor «*un hombre cuyo corazón
+Tras la muerte de Taylor en 1915, se formaron los *Frederick W. Taylor Cooperators* para proyectar su
+movimiento de <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span> en el futuro. Frank Copley llamó a Taylor «*un hombre cuyo corazón
 estaba encendido de celo misionero*». Mucho de lo relacionado con este [cuaquéro](https://es.wikipedia.org/wiki/Sociedad_Religiosa_de_los_Amigos) transformado en [unitario](https://es.wikipedia.org/wiki/Unitarismo#Historia),
 que se casó con una familia puritana que provenía del Arbella antes de convertirse finalmente en
 episcopaliano, tuvo un peso decisivo en la forma que tomó la escolarización en su país.
